@@ -287,7 +287,7 @@ export const SAT2026PT11RWM1BD = {
     difficulty: "Easy",
   },
   3: {
-    skill: "Craft and Structure",
+    skill: "Words in Context",
     topic: "Craft and Structure",
     difficulty: "Medium"
   },
@@ -312,7 +312,7 @@ export const SAT2026PT11RWM1BD = {
     difficulty: "Hard",
   },
   8: {
-    skill: "Information and Ideas",
+    skill: "Central Ideas and Details",
     topic: "Information and Ideas",
     difficulty: "Hard"
   },
@@ -337,7 +337,7 @@ export const SAT2026PT11RWM1BD = {
     difficulty: "Hard",
   },
   13: {
-    skill: "Information and Ideas",
+    skill: "Command of Evidence",
     topic: "Information and Ideas",
     difficulty: "Hard"
   },
@@ -347,7 +347,7 @@ export const SAT2026PT11RWM1BD = {
     difficulty: "Easy",
   },
   15: {
-    skill: "Information and Ideas",
+    skill: "Inferences",
     topic: "Information and Ideas",
     difficulty: "Hard"
   },
@@ -362,7 +362,7 @@ export const SAT2026PT11RWM1BD = {
     difficulty: "Medium",
   },
   18: {
-    skill: "Standard English Conventions",
+    skill: "Boundaries",
     topic: "Standard English Conventions",
     difficulty: "Medium"
   },
@@ -377,7 +377,7 @@ export const SAT2026PT11RWM1BD = {
     difficulty: "Hard",
   },
   21: {
-    skill: "Expression of Ideas",
+    skill: "Transitions",
     topic: "Expression of Ideas",
     difficulty: "Medium"
   },
@@ -387,12 +387,12 @@ export const SAT2026PT11RWM1BD = {
     difficulty: "Medium",
   },
   23: {
-    skill: "Expression of Ideas",
+    skill: "Transitions",
     topic: "Expression of Ideas",
     difficulty: "Hard"
   },
   24: {
-    skill: "Expression of Ideas",
+    skill: "Rhetorical Synthesis",
     topic: "Expression of Ideas",
     difficulty: "Easy"
   },
@@ -402,12 +402,12 @@ export const SAT2026PT11RWM1BD = {
     difficulty: "Medium",
   },
   26: {
-    skill: "Expression of Ideas",
+    skill: "Rhetorical Synthesis",
     topic: "Expression of Ideas",
     difficulty: "Medium"
   },
   27: {
-    skill: "Expression of Ideas",
+    skill: "Rhetorical Synthesis",
     topic: "Expression of Ideas",
     difficulty: "Medium"
   }
@@ -693,17 +693,17 @@ export const SAT2026PT11RWM2BD = {
     difficulty: "Easy",
   },
   29: {
-    skill: "Craft and Structure",
+    skill: "Words in Context",
     topic: "Craft and Structure",
     difficulty: "Hard"
   },
   30: {
-    skill: "Craft and Structure",
+    skill: "Words in Context",
     topic: "Craft and Structure",
     difficulty: "Hard"
   },
   31: {
-    skill: "Craft and Structure",
+    skill: "Words in Context",
     topic: "Craft and Structure",
     difficulty: "Hard"
   },
@@ -713,17 +713,17 @@ export const SAT2026PT11RWM2BD = {
     difficulty: "Easy",
   },
   33: {
-    skill: "Craft and Structure",
+    skill: "Text Structure and Purpose",
     topic: "Craft and Structure",
     difficulty: "Hard"
   },
   34: {
-    skill: "Craft and Structure",
+    skill: "Cross-Text Connections",
     topic: "Craft and Structure",
     difficulty: "Hard"
   },
   35: {
-    skill: "Information and Ideas",
+    skill: "Central Ideas and Details",
     topic: "Information and Ideas",
     difficulty: "Hard"
   },
@@ -733,22 +733,22 @@ export const SAT2026PT11RWM2BD = {
     difficulty: "Hard",
   },
   37: {
-    skill: "Information and Ideas",
+    skill: "Command of Evidence",
     topic: "Information and Ideas",
     difficulty: "Medium"
   },
   38: {
-    skill: "Information and Ideas",
+    skill: "Command of Evidence",
     topic: "Information and Ideas",
     difficulty: "Medium"
   },
   39: {
-    skill: "Information and Ideas",
+    skill: "Command of Evidence",
     topic: "Information and Ideas",
     difficulty: "Hard"
   },
   40: {
-    skill: "Information and Ideas",
+    skill: "Inferences",
     topic: "Information and Ideas",
     difficulty: "Hard"
   },
@@ -758,7 +758,7 @@ export const SAT2026PT11RWM2BD = {
     difficulty: "Hard",
   },
   42: {
-    skill: "Standard English Conventions",
+    skill: "Form, Structure, and Sense",
     topic: "Standard English Conventions",
     difficulty: "Medium"
   },
@@ -773,17 +773,17 @@ export const SAT2026PT11RWM2BD = {
     difficulty: "Hard",
   },
   45: {
-    skill: "Standard English Conventions",
+    skill: "Form, Structure, and Sense",
     topic: "Standard English Conventions",
     difficulty: "Medium"
   },
   46: {
-    skill: "Standard English Conventions",
+    skill: "Boundaries",
     topic: "Standard English Conventions",
     difficulty: "Hard"
   },
   47: {
-    skill: "Standard English Conventions",
+    skill: "Form, Structure, and Sense",
     topic: "Standard English Conventions",
     difficulty: "Hard"
   },
@@ -798,12 +798,12 @@ export const SAT2026PT11RWM2BD = {
     difficulty: "Hard",
   },
   50: {
-    skill: "Expression of Ideas",
+    skill: "Transitions",
     topic: "Expression of Ideas",
     difficulty: "Hard"
   },
   51: {
-    skill: "Expression of Ideas",
+    skill: "Rhetorical Synthesis",
     topic: "Expression of Ideas",
     difficulty: "Medium"
   },

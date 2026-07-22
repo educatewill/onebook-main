@@ -317,7 +317,7 @@ export const SAT2026PT10RWM1BD = {
     difficulty: "Medium"
   },
   9: {
-    skill: "Information and Ideas",
+    skill: "Central Ideas and Details",
     topic: "Information and Ideas",
     difficulty: "Medium"
   },
@@ -327,7 +327,7 @@ export const SAT2026PT10RWM1BD = {
     difficulty: "Medium"
   },
   11: {
-    skill: "Information and Ideas",
+    skill: "Command of Evidence",
     topic: "Information and Ideas",
     difficulty: "Medium"
   },
@@ -738,7 +738,7 @@ export const SAT2026PT10RWM2BD = {
     difficulty: "Hard"
   },
   38: {
-    skill: "Information and Ideas",
+    skill: "Command of Evidence",
     topic: "Information and Ideas",
     difficulty: "Hard"
   },
