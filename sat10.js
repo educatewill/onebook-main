@@ -1007,112 +1007,112 @@ export const SAT2026PT10MM1Q = {
 
 export const SAT2026PT10MM1BD = {
   55: {
-    skill: "Problem-Solving and Data Analysis",
+    skill: "Probability and conditional probability",
     topic: "Problem-Solving and Data Analysis",
     difficulty: "Easy"
   },
   56: {
-    skill: "Algebra",
+    skill: "Linear functions",
     topic: "Algebra",
     difficulty: "Easy"
   },
   57: {
-    skill: "Algebra",
+    skill: "Linear equations in one variable",
     topic: "Algebra",
     difficulty: "Easy"
   },
   58: {
-    skill: "Problem-Solving and Data Analysis",
+    skill: "Two-variable data: Models and scatterplots",
     topic: "Problem-Solving and Data Analysis",
     difficulty: "Easy"
   },
   59: {
-    skill: "Problem-Solving and Data Analysis",
+    skill: "Percentages",
     topic: "Problem-Solving and Data Analysis",
     difficulty: "Easy"
   },
   60: {
-    skill: "Algebra",
+    skill: "Linear equations in two variables",
     topic: "Algebra",
     difficulty: "Easy"
   },
   61: {
-    skill: "Advanced Math",
+    skill: "Nonlinear functions",
     topic: "Advanced Math",
     difficulty: "Easy"
   },
   62: {
-    skill: "Advanced Math",
+    skill: "Equivalent expressions",
     topic: "Advanced Math",
     difficulty: "Easy"
   },
   63: {
-    skill: "Geometry and Trigonometry",
+    skill: "Lines, angles, and triangles",
     topic: "Geometry and Trigonometry",
     difficulty: "Medium"
   },
   64: {
-    skill: "Problem-Solving and Data Analysis",
+    skill: "Ratios, rates, proportional relationships, and units",
     topic: "Problem-Solving and Data Analysis",
     difficulty: "Medium"
   },
   65: {
-    skill: "Algebra",
+    skill: "Linear functions",
     topic: "Algebra",
     difficulty: "Medium"
   },
   66: {
-    skill: "Advanced Math",
+    skill: "Nonlinear functions",
     topic: "Advanced Math",
     difficulty: "Medium"
   },
   67: {
-    skill: "Advanced Math",
+    skill: "Nonlinear functions",
     topic: "Advanced Math",
     difficulty: "Medium"
   },
   68: {
-    skill: "Advanced Math",
+    skill: "Nonlinear functions",
     topic: "Advanced Math",
     difficulty: "Hard"
   },
   69: {
-    skill: "Geometry and Trigonometry",
+    skill: "Area and volume",
     topic: "Geometry and Trigonometry",
     difficulty: "Hard"
   },
   70: {
-    skill: "Algebra",
+    skill: "Systems of two linear equations in two variables",
     topic: "Algebra",
     difficulty: "Medium"
   },
   71: {
-    skill: "Advanced Math",
+    skill: "Nonlinear functions",
     topic: "Advanced Math",
     difficulty: "Hard"
   },
   72: {
-    skill: "Advanced Math",
+    skill: "Nonlinear functions",
     topic: "Advanced Math",
     difficulty: "Hard"
   },
   73: {
-    skill: "Geometry and Trigonometry",
+    skill: "Circles",
     topic: "Geometry and Trigonometry",
     difficulty: "Hard"
   },
   74: {
-    skill: "Algebra",
+    skill: "Systems of two linear equations in two variables",
     topic: "Algebra",
     difficulty: "Hard"
   },
   75: {
-    skill: "Advanced Math",
+    skill: "Nonlinear equations in one variable and systems of equations in two variables",
     topic: "Advanced Math",
     difficulty: "Hard"
   },
   76: {
-    skill: "Advanced Math",
+    skill: "Nonlinear equations in one variable and systems of equations in two variables",
     topic: "Advanced Math",
     difficulty: "Hard"
   }
@@ -1301,112 +1301,112 @@ export const SAT2026PT10MM2Q = {
 
 export const SAT2026PT10MM2BD = {
   77: {
-    skill: "Problem-Solving and Data Analysis",
+    skill: "Two-variable data: Models and scatterplots",
     topic: "Problem-Solving and Data Analysis",
     difficulty: "Easy"
   },
   78: {
-    skill: "Algebra",
+    skill: "Linear equations in two variables",
     topic: "Algebra",
     difficulty: "Medium"
   },
   79: {
-    skill: "Algebra",
+    skill: "Linear functions",
     topic: "Algebra",
     difficulty: "Medium"
   },
   80: {
-    skill: "Advanced Math",
+    skill: "Nonlinear functions",
     topic: "Advanced Math",
     difficulty: "Medium"
   },
   81: {
-    skill: "Algebra",
+    skill: "Linear functions",
     topic: "Algebra",
     difficulty: "Medium"
   },
   82: {
-    skill: "Geometry and Trigonometry",
+    skill: "Lines, angles, and triangles",
     topic: "Geometry and Trigonometry",
     difficulty: "Easy"
   },
   83: {
-    skill: "Algebra",
+    skill: "Linear inequalities in one or two variables",
     topic: "Algebra",
     difficulty: "Hard"
   },
   84: {
-    skill: "Problem-Solving and Data Analysis",
+    skill: "One-variable data: Distributions and measures of center and spread",
     topic: "Problem-Solving and Data Analysis",
     difficulty: "Hard"
   },
   85: {
-    skill: "Advanced Math",
+    skill: "Nonlinear functions",
     topic: "Advanced Math",
     difficulty: "Medium"
   },
   86: {
-    skill: "Geometry and Trigonometry",
+    skill: "Area and volume",
     topic: "Geometry and Trigonometry",
     difficulty: "Hard"
   },
   87: {
-    skill: "Algebra",
+    skill: "Systems of two linear equations in two variables",
     topic: "Algebra",
     difficulty: "Hard"
   },
   88: {
-    skill: "Problem-Solving and Data Analysis",
+    skill: "Ratios, rates, proportional relationships, and units",
     topic: "Problem-Solving and Data Analysis",
     difficulty: "Hard"
   },
   89: {
-    skill: "Geometry and Trigonometry",
+    skill: "Lines, angles, and triangles",
     topic: "Geometry and Trigonometry",
     difficulty: "Hard"
   },
   90: {
-    skill: "Algebra",
+    skill: "Linear inequalities in one or two variables",
     topic: "Algebra",
     difficulty: "Hard"
   },
   91: {
-    skill: "Geometry and Trigonometry",
+    skill: "Right triangles and trigonometry",
     topic: "Geometry and Trigonometry",
     difficulty: "Hard"
   },
   92: {
-    skill: "Geometry and Trigonometry",
+    skill: "Circles",
     topic: "Geometry and Trigonometry",
     difficulty: "Hard"
   },
   93: {
-    skill: "Algebra",
+    skill: "Systems of two linear equations in two variables",
     topic: "Algebra",
     difficulty: "Hard"
   },
   94: {
-    skill: "Advanced Math",
+    skill: "Equivalent expressions",
     topic: "Advanced Math",
     difficulty: "Hard"
   },
   95: {
-    skill: "Advanced Math",
+    skill: "Nonlinear equations in one variable and systems of equations in two variables",
     topic: "Advanced Math",
     difficulty: "Hard"
   },
   96: {
-    skill: "Advanced Math",
+    skill: "Nonlinear equations in one variable and systems of equations in two variables",
     topic: "Advanced Math",
     difficulty: "Hard"
   },
   97: {
-    skill: "Algebra",
+    skill: "Systems of two linear equations in two variables",
     topic: "Algebra",
     difficulty: "Hard"
   },
   98: {
-    skill: "Algebra",
+    skill: "Linear functions",
     topic: "Algebra",
     difficulty: "Hard"
   }
