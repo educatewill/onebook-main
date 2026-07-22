@@ -14,7 +14,7 @@ export const SAT2026PT11RWM1Q = {
     answer: "C"
   },
   2: {
-    passage: "Although the government of the Soviet Union attempted to ______ Georgi Vladimov’s novel Faithful Ruslan, copies of the book circulated in secret among readers in several parts of the country.",
+    passage: "Although the government of the Soviet Union attempted to ______ Georgi Vladimov’s novel <i>Faithful Ruslan</i>, copies of the book circulated in secret among readers in several parts of the country.",
     img: "",
     question: "Which choice completes the text with the most logical and precise word or phrase?",
     choice1: "replicate",
@@ -34,7 +34,7 @@ export const SAT2026PT11RWM1Q = {
     answer: "B"
   },
   4: {
-    passage: "A casual description of Scherezade García’s 2019 mural Blame It on the Bean: The Power of Coffee can make the work seem ______ —a painting that is housed in a coffee shop and that depicts three women drinking coffee may not sound particularly ambitious—but in fact the work is a complex, dynamic meditation on gender and the legacy of colonialism that demands serious attention.",
+    passage: "A casual description of Scherezade García’s 2019 mural <i>Blame It on the Bean: The Power of Coffee</i> can make the work seem ______ —a painting that is housed in a coffee shop and that depicts three women drinking coffee may not sound particularly ambitious—but in fact the work is a complex, dynamic meditation on gender and the legacy of colonialism that demands serious attention.",
     img: "",
     question: "Which choice completes the text with the most logical and precise word or phrase?",
     choice1: "unassuming",
@@ -54,7 +54,7 @@ export const SAT2026PT11RWM1Q = {
     answer: "B"
   },
   6: {
-    passage: "Curious about how people visually perceive objects in their dreams, Stephen LaBerge and team recruited lucid dreamers—people aware that they’re dreaming as it’s happening—for a research study. These participants were reliably able to signal when they had entered a dream state; the team then observed participants’ eye movements as they slept. The smoothness with which participants’ eyes tracked objects in their dreams closely matched how sighted people who are awake visually track objects around them, suggesting to the team that the brain perceives dream objects as the product of something other than pure imagination.",
+    passage: "Curious about how people visually perceive objects in their dreams, Stephen LaBerge and team recruited lucid dreamers—people aware that they’re dreaming as it’s happening—for a research study. These participants were reliably able to signal when they had entered a dream state; the team then observed participants’ eye movements as they slept. <u>The smoothness with which participants’ eyes tracked objects in their dreams closely matched how sighted people who are awake visually track objects around them,</u> suggesting to the team that the brain perceives dream objects as the product of something other than pure imagination.",
     img: "",
     question: "Which choice best states the function of the underlined portion in the text as a whole?",
     choice1: "To offer key evidence that undermines LaBerge and team’s initial hypothesis",
@@ -64,7 +64,7 @@ export const SAT2026PT11RWM1Q = {
     answer: "D"
   },
   7: {
-    passage: "Text 1\n\nGood art often challenges and disrupts social and aesthetic norms, but the creation of public art—paintings, sculptures, and performance pieces displayed in nonmuseum or nontheatrical public settings—typically requires broad agreement among artists, civic officials, and community members about the works’ message and artistic goals. Public art that fails to appease everyone by being sufficiently aesthetically and conceptually bland almost inevitably provokes backlash.\n\nText 2\n\nPublic art is commonly displayed in spaces intended for purposes other than meaningful aesthetic engagement. Some critics of public art therefore note that norm-defying pieces that aren’t effectively integrated within their surroundings in a manner that primes passersby to appreciate the pieces’ merits (as is often the case) tend to be regarded more unfavorably than similarly provocative art encountered in museums is.",
+    passage: "Text 1<br><br>Good art often challenges and disrupts social and aesthetic norms, but the creation of public art—paintings, sculptures, and performance pieces displayed in nonmuseum or nontheatrical public settings—typically requires broad agreement among artists, civic officials, and community members about the works’ message and artistic goals. <u>Public art that fails to appease everyone by being sufficiently aesthetically and conceptually bland almost inevitably provokes backlash.</u><br><br>Text 2<br><br>Public art is commonly displayed in spaces intended for purposes other than meaningful aesthetic engagement. Some critics of public art therefore note that norm-defying pieces that aren’t effectively integrated within their surroundings in a manner that primes passersby to appreciate the pieces’ merits (as is often the case) tend to be regarded more unfavorably than similarly provocative art encountered in museums is.",
     img: "",
     question: "Based on the texts, how would the critics mentioned in Text 2 most likely respond to the underlined claim in Text 1?",
     choice1: "By arguing that the reason members of the general public might disagree about a public artwork’s merits is unrelated to the unconventionality of its appearance and ideas",
@@ -74,13 +74,13 @@ export const SAT2026PT11RWM1Q = {
     answer: "D"
   },
   8: {
-    passage: "The following text is adapted from Fanny Burney’s 1778 novel Evelina. The text is an excerpt from a letter by Lady Howard to Evelina’s guardian, Reverend Villars, in which Lady Howard discusses an upcoming trip to London planned by her daughter Mrs. Mirvan’s family.\n\nIt is very earnestly [the Mirvans’] wish to enlarge and enliven their party by the addition of your amiable ward, who would share, equally with her own daughter, the care and attention of Mrs. Mirvan. Do not start at this proposal; it is time that [Evelina] should see something of the world. When young people are too rigidly sequestered from it, their lively and romantic imaginations paint it to them as a paradise of which they have been beguiled; but when they are shown it properly, and in due time, they see it such as it really is, equally shared by pain and pleasure, hope and disappointment.",
+    passage: "The following text is adapted from Fanny Burney’s 1778 novel <i>Evelina</i>. The text is an excerpt from a letter by Lady Howard to Evelina’s guardian, Reverend Villars, in which Lady Howard discusses an upcoming trip to London planned by her daughter Mrs. Mirvan’s family.<br><br>It is very earnestly [the Mirvans’] wish to enlarge and enliven their party by the addition of your amiable ward, who would share, equally with her own daughter, the care and attention of Mrs. Mirvan. Do not start at this proposal; it is time that [Evelina] should see something of the world. When young people are too rigidly sequestered from it, their lively and romantic imaginations paint it to them as a paradise of which they have been beguiled; but when they are shown it properly, and in due time, they see it such as it really is, equally shared by pain and pleasure, hope and disappointment.",
     img: "",
     question: "Based on the text, Lady Howard would most likely agree with which statement about Reverend Villars?",
-    choice1: "Although the manner in which he has raised Evelina is in many ways exemplary, he has been misguided in shielding her from the influence of other young people.",
-    choice2: "He has imparted to Evelina his own idealistic view of the world, which results in her being unprepared to face inevitable disappointments.",
-    choice3: "Although his desire to guard Evelina from unscrupulous people is commendable, his general mistrust has led him to be unduly wary of the Mirvans.",
-    choice4: "He is overly protective of Evelina, who would likely benefit from a greater variety of experiences than she has had thus far.",
+    choice1: "Although the manner in which he has raised <i>Evelina</i> is in many ways exemplary, he has been misguided in shielding her from the influence of other young people.",
+    choice2: "He has imparted to <i>Evelina</i> his own idealistic view of the world, which results in her being unprepared to face inevitable disappointments.",
+    choice3: "Although his desire to guard <i>Evelina</i> from unscrupulous people is commendable, his general mistrust has led him to be unduly wary of the Mirvans.",
+    choice4: "He is overly protective of <i>Evelina</i>, who would likely benefit from a greater variety of experiences than she has had thus far.",
     answer: "D"
   },
   9: {
@@ -114,12 +114,12 @@ export const SAT2026PT11RWM1Q = {
     answer: "B"
   },
   12: {
-    passage: "Founded in 1965 and originally established as a cultural extension of the United Farm Workers—a union representing many Mexican American agricultural workers at the time—the theater troupe El Teatro Campesino has achieved recognition as a source of inspiration for subsequent Chicano theater companies and as a contributor to the dramatic arts. In an article about the company, a theater historian posits that a significant stylistic influence on El Teatro’s early performances was the audience-mediated slapstick comedy of carpa theater, vaudeville-style shows popular in Mexico and the US Southwest in the 1920s and ’30s.",
+    passage: "Founded in 1965 and originally established as a cultural extension of the United Farm Workers—a union representing many Mexican American agricultural workers at the time—the theater troupe El Teatro Campesino has achieved recognition as a source of inspiration for subsequent Chicano theater companies and as a contributor to the dramatic arts. In an article about the company, a theater historian posits that a significant stylistic influence on El Teatro’s early performances was the audience-mediated slapstick comedy of <i>carpa</i> theater, vaudeville-style shows popular in Mexico and the US Southwest in the 1920s and ’30s.",
     img: "",
     question: "Which quotation from the article would best illustrate the theater historian’s claim?",
-    choice1: "“The company presented actos, short comedy sketches, that often relied on exaggerated physical humor to groups of agricultural workers, whose reactions—enthusiastic cheers of appreciation and, occasionally, loud boos of disapproval—promoted improvisation.”",
+    choice1: "“The company presented <i>actos</i>, short comedy sketches, that often relied on exaggerated physical humor to groups of agricultural workers, whose reactions—enthusiastic cheers of appreciation and, occasionally, loud boos of disapproval—promoted improvisation.”",
     choice2: "“The company was focused on the reality of the present situation and discovered that humor was often found in that reality; consequently, comedy became a tool to convey social critique while entertaining and inspiring audiences.”",
-    choice3: "“The company relied heavily on satire, humor, and references to contemporary popular culture as well as a make-do aesthetic—often referred to as rasquache—that reflected not only the troupe’s limited financial resources but also its sociopolitical message.”",
+    choice3: "“The company relied heavily on satire, humor, and references to contemporary popular culture as well as a make-do aesthetic—often referred to as <i>rasquache</i>—that reflected not only the troupe’s limited financial resources but also its sociopolitical message.”",
     choice4: "“The members of the company, which in addition to founder Luis Valdez consisted entirely of nonprofessional actors, traveled into farm fields, where they, with minimal props and costumes, performed comedy in the form of brief humorous vignettes.”",
     answer: "A"
   },
@@ -144,7 +144,7 @@ export const SAT2026PT11RWM1Q = {
     answer: "D"
   },
   15: {
-    passage: "Outi Tervo and team studied the effect of human-caused noise on narwhals (Monodon monoceros), arctic marine mammals that are sensitive to acoustic changes in their environment. Hypothesizing that elevated sound levels affect foraging among narwhals, Tervo’s team compared narwhal diving behaviors in natural sound conditions with those behaviors in two human-caused sound exposure conditions—ship sounds and ship sounds coupled with sonic pulses. Both exposure conditions resulted in significant decreases in the number and target depth of deep dives (associated with foraging) relative to natural conditions. However, differences between diving behaviors in the two exposure types were negligible, a finding that could be attributed to the fact that ______",
+    passage: "Outi Tervo and team studied the effect of human-caused noise on narwhals (<i>Monodon monoceros</i>), arctic marine mammals that are sensitive to acoustic changes in their environment. Hypothesizing that elevated sound levels affect foraging among narwhals, Tervo’s team compared narwhal diving behaviors in natural sound conditions with those behaviors in two human-caused sound exposure conditions—ship sounds and ship sounds coupled with sonic pulses. Both exposure conditions resulted in significant decreases in the number and target depth of deep dives (associated with foraging) relative to natural conditions. However, differences between diving behaviors in the two exposure types were negligible, a finding that could be attributed to the fact that ______",
     img: "",
     question: "Which choice most logically completes the text?",
     choice1: "sonic pulses can be heard at significantly greater ocean depths than ship sounds can.",
@@ -174,7 +174,7 @@ export const SAT2026PT11RWM1Q = {
     answer: "B"
   },
   18: {
-    passage: "Cy Twombly, a US painter and sculptor, created many large-scale abstract works, such as his 10-painting series Fifty Days at Iliam. In these works, Twombly’s artistic style is exemplified by his use of graffiti-like ______ often incorporate words or phrases from poetry and mythology.",
+    passage: "Cy Twombly, a US painter and sculptor, created many large-scale abstract works, such as his 10-painting series <i>Fifty Days at Iliam</i>. In these works, Twombly’s artistic style is exemplified by his use of graffiti-like ______ often incorporate words or phrases from poetry and mythology.",
     img: "",
     question: "Which choice completes the text so that it conforms to the conventions of Standard English?",
     choice1: "scribbles: that",
@@ -224,7 +224,7 @@ export const SAT2026PT11RWM1Q = {
     answer: "D"
   },
   23: {
-    passage: "Long thought to be sessile (immobile), adult Chelonibia testudinaria, barnacles that adhere to sea turtle shells, have been observed to shift slightly in position over time—a phenomenon that has been attributed to the barnacles’ passive displacement by water currents. ______ a research team found that adult C. testudinaria moved toward the heads of their sea turtle hosts and thus against the prevailing water flow, behavior consistent with self-initiated locomotion.",
+    passage: "Long thought to be sessile (immobile), adult <i>Chelonibia testudinaria</i>, barnacles that adhere to sea turtle shells, have been observed to shift slightly in position over time—a phenomenon that has been attributed to the barnacles’ passive displacement by water currents. ______ a research team found that adult <i>C. testudinaria</i> moved toward the heads of their sea turtle hosts and thus against the prevailing water flow, behavior consistent with self-initiated locomotion.",
     img: "",
     question: "Which choice completes the text with the most logical transition?",
     choice1: "Contrary to this phenomenon,",
@@ -264,13 +264,13 @@ export const SAT2026PT11RWM1Q = {
     answer: "A"
   },
   27: {
-    passage: "While researching a topic, a student has taken the following notes:\n\nEdmonia Lewis (1844–1907) was an African American and Mississauga Ojibwe sculptor. Forever Free (1867) is a marble sculpture by Lewis. It depicts a male figure and a female figure gazing upward. It commemorates the 1863 Emancipation Proclamation. The phrase “forever free” from the text of the Emancipation Proclamation is inscribed on the sculpture’s base. Art historian Kirsten Buick describes the sculpture as a “celebration of liberty.”",
+    passage: "While researching a topic, a student has taken the following notes:\n\nEdmonia Lewis (1844–1907) was an African American and Mississauga Ojibwe sculptor. <i>Forever Free</i> (1867) is a marble sculpture by Lewis. It depicts a male figure and a female figure gazing upward. It commemorates the 1863 Emancipation Proclamation. The phrase “forever free” from the text of the Emancipation Proclamation is inscribed on the sculpture’s base. Art historian Kirsten Buick describes the sculpture as a “celebration of liberty.”",
     img: "",
     question: "The student wants to explain the sculpture’s specific historical context. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
-    choice1: "According to art historian Kirsten Buick, Forever Free, which depicts a male figure and a female figure gazing upward, is a “celebration of liberty.”",
+    choice1: "According to art historian Kirsten Buick, <i>Forever Free</i>, which depicts a male figure and a female figure gazing upward, is a “celebration of liberty.”",
     choice2: "The base of Edmonia Lewis’s 1867 marble sculpture is inscribed with a historically significant phrase: “forever free.”",
-    choice3: "Completed in 1867, Lewis’s sculpture Forever Free commemorates the Emancipation Proclamation, which had been issued four years previously.",
-    choice4: "Forever Free (1867) is a marble sculpture by Edmonia Lewis, an African American and Mississauga Ojibwe sculptor who lived from 1844 to 1907.",
+    choice3: "Completed in 1867, Lewis’s sculpture <i>Forever Free</i> commemorates the Emancipation Proclamation, which had been issued four years previously.",
+    choice4: "<i>Forever Free</i> (1867) is a marble sculpture by Edmonia Lewis, an African American and Mississauga Ojibwe sculptor who lived from 1844 to 1907.",
     answer: "C"
   }
 };
@@ -425,7 +425,7 @@ export const SAT2026PT11RWM2Q = {
     answer: "D"
   },
   29: {
-    passage: "Archaeologists have identified a plethora of beads fashioned from Tritia gibbosula shells in many Middle Stone Age (MSA) sites across western North Africa, including El Mnasra Cave, Morocco. In a 2021 paper, El Mehdi Sehasseh et al. attribute these artifacts’ apparent ______ to the evolution and propagation of symbolic behavior (e.g., use of personal ornaments) in humans and the widespread availability of T. gibbosula during the MSA.",
+    passage: "Archaeologists have identified a plethora of beads fashioned from <i>Tritia gibbosula</i> shells in many Middle Stone Age (MSA) sites across western North Africa, including El Mnasra Cave, Morocco. In a 2021 paper, El Mehdi Sehasseh et al. attribute these artifacts’ apparent ______ to the evolution and propagation of symbolic behavior (e.g., use of personal ornaments) in humans and the widespread availability of <i>T. gibbosula</i> during the MSA.",
     img: "",
     question: "Which choice completes the text with the most logical and precise word or phrase?",
     choice1: "heterogeneity",
@@ -435,7 +435,7 @@ export const SAT2026PT11RWM2Q = {
     answer: "B"
   },
   30: {
-    passage: "The familial structure of the black swan (Cygnus atratus) shows tremendous ______ : breeding pairs with demonstrated success in rearing cygnets (young swans) have been observed to foster those of less successful pairs, and while rearing by female-male pairs is most common, male-male pairs sometimes rear cygnets too, achieving a significantly higher rate of survival to adulthood than female-male pairs.",
+    passage: "The familial structure of the black swan (<i>Cygnus atratus</i>) shows tremendous ______ : breeding pairs with demonstrated success in rearing cygnets (young swans) have been observed to foster those of less successful pairs, and while rearing by female-male pairs is most common, male-male pairs sometimes rear cygnets too, achieving a significantly higher rate of survival to adulthood than female-male pairs.",
     img: "",
     question: "Which choice completes the text with the most logical and precise word or phrase?",
     choice1: "cohesion",
@@ -445,9 +445,9 @@ export const SAT2026PT11RWM2Q = {
     answer: "B"
   },
   31: {
-    passage: "The following text is from a 1955 translation of Samuel Beckett’s 1951 novel Molloy (translated by the author and Patrick Bowles). In the text, Molloy has arrived at the town ramparts, an elevated walkway atop the city walls.\n\nAnd having cleared the ramparts I had to confess the sky was clearing, prior to its winding in the other shroud, night. Yes, the great cloud was ravelling, discovering here and there a pale and dying sky, and the sun, already down, was manifest in the livid tongues of fire darting towards the zenith, falling and darting again, ever more pale and languid, and doomed no sooner lit to be extinguished.\n\n©1955 by Grove Press, Inc.",
+    passage: "The following text is from a 1955 translation of Samuel Beckett’s 1951 novel <i>Molloy</i> (translated by the author and Patrick Bowles). In the text, Molloy has arrived at the town ramparts, an elevated walkway atop the city walls.<br><br>And having cleared the ramparts I had to confess the sky was clearing, prior to its winding in the other shroud, night. Yes, the great cloud was ravelling, discovering here and there a pale and dying sky, and the sun, already down, was <u>manifest</u> in the livid tongues of fire darting towards the zenith, falling and darting again, ever more pale and languid, and doomed no sooner lit to be extinguished.<br><br>©1955 by Grove Press, Inc.",
     img: "",
-    question: "As used in the text, what does the word “manifest” most nearly mean?",
+    question: "As used in the text, what does the word “<u>manifest</u>” most nearly mean?",
     choice1: "Realized",
     choice2: "Perceptible",
     choice3: "Situated",
@@ -455,7 +455,7 @@ export const SAT2026PT11RWM2Q = {
     answer: "B"
   },
   32: {
-    passage: "The following text is from Bram Stoker’s 1911 novel The Lair of the White Worm. Adam is meeting his great-uncle Richard at a port.\n\nThe meeting so auspiciously begun proceeded well. Adam, seeing that the old man was interested in the novelty of the ship, suggested that he should stay the night on board, and that he would himself be ready to start at any hour and go anywhere that the other suggested. This affectionate willingness to fall in with his own plans quite won the old man’s heart. He warmly accepted the invitation, and at once they became not only on terms of affectionate relationship, but almost like old friends.",
+    passage: "The following text is from Bram Stoker’s 1911 novel <i>The Lair of the White Worm</i>. Adam is meeting his great-uncle Richard at a port.<br><br>The meeting so auspiciously begun proceeded well. Adam, seeing that the old man was interested in the novelty of the ship, suggested that he should stay the night on board, and that he would himself be ready to start at any hour and go anywhere that the other suggested. This affectionate willingness to fall in with his own plans quite won the old man’s heart. He warmly accepted the invitation, and at once they became not only on terms of affectionate relationship, but almost like old friends.",
     img: "",
     question: "Which choice best states the main purpose of the text?",
     choice1: "It states the reasons why Adam and his great-uncle Richard decide to sleep on the ship rather than finding lodging on land.",
@@ -465,7 +465,7 @@ export const SAT2026PT11RWM2Q = {
     answer: "B"
   },
   33: {
-    passage: "The following text is from William Shakespeare’s circa 1611 play The Winter’s Tale. Camillo has been away from his home in Sicily and serves in the court of Polixenes, the king of Bohemia. He has asked Polixenes for permission to return to Sicily.\n\nPOLIXENES: I pray thee, good Camillo, be no more\n\nimportunate. ’Tis a sickness denying thee anything,\n\na death to grant this.\n\nCAMILLO: It is fifteen years since I saw my country.\n\nThough I have for the most part been aired abroad,\n\nI desire to lay my bones there. Besides, the penitent\n\nking, my master, hath sent for me, to whose feeling sorrows I might be some allay—or I o’erween [presume] to think so—which is another spur to my departure.",
+    passage: "The following text is from William Shakespeare’s circa 1611 play <i>The Winter’s Tale</i>. Camillo has been away from his home in Sicily and serves in the court of Polixenes, the king of Bohemia. He has asked Polixenes for permission to return to Sicily.<br><br>POLIXENES: I pray thee, good Camillo, be no more<br>importunate. ’Tis a sickness denying thee anything,<br>a death to grant this.<br><br>CAMILLO: It is fifteen years since I saw my country.<br>Though I have for the most part been aired abroad,<br>I desire to lay my bones there. Besides, the penitent<br>king, my master, hath sent for me, <u>to whose feeling<br>sorrows I might be some allay—or I o’erween [presume] to<br>think so</u>—which is another spur to my departure.",
     img: "",
     question: "Which choice best describes the function of the underlined portion in the text as a whole?",
     choice1: "It establishes Camillo’s hope that Polixenes will be comforted knowing that Camillo isn’t departing at his own discretion.",
@@ -475,7 +475,7 @@ export const SAT2026PT11RWM2Q = {
     answer: "C"
   },
   34: {
-    passage: "Text 1\n\nChemically analyzing bulk rock-core samples from Australia’s Mount McRae Shale, Ariel Anbar et al. found a transient but significant increase in molybdenum (Mo) at a point corresponding to roughly 2.5 billion years ago (Ga). On Earth, Mo is released mainly through oxidative weathering of minerals; Anbar et al. therefore concluded that atmospheric oxygen briefly increased 2.5 Ga, then returned to its earlier negligible level.\n\nText 2\n\nSarah Slotznick et al. reexamined the Mount McRae Shale core. Since chemically analyzing bulk samples can occlude contextual details, Slotznick et al. also employed high-resolution microscopy, which revealed volcanic debris—a known Mo host—around 2.5 Ga and microfractures in the surrounding matrix. The researchers assert that fluid could have reached the debris through the microfractures and initiated oxidative weathering long after debris deposition.",
+    passage: "Text 1<br><br>Chemically analyzing bulk rock-core samples from Australia’s Mount McRae Shale, Ariel Anbar et al. found a transient but significant increase in molybdenum (Mo) at a point corresponding to roughly 2.5 billion years ago (Ga). On Earth, Mo is released mainly through oxidative weathering of minerals; Anbar et al. therefore concluded that atmospheric oxygen briefly increased 2.5 Ga, then returned to its earlier negligible level.<br><br>Text 2<br><br>Sarah Slotznick et al. reexamined the Mount McRae Shale core. Since chemically analyzing bulk samples can occlude contextual details, Slotznick et al. also employed high-resolution microscopy, which revealed volcanic debris—a known Mo host—around 2.5 Ga and microfractures in the surrounding matrix. The researchers assert that fluid could have reached the debris through the microfractures and initiated oxidative weathering long after debris deposition.",
     img: "",
     question: "Based on the texts, Anbar et al. (Text 1) and Slotznick et al. (Text 2) would most likely disagree about the answer to which question about the portion of the Mount McRae Shale rock-core corresponding to 2.5 Ga?",
     choice1: "Does the increase in Mo in that portion suggest that atmospheric oxygen levels were not negligible before 2.5 Ga?",
@@ -485,7 +485,7 @@ export const SAT2026PT11RWM2Q = {
     answer: "B"
   },
   35: {
-    passage: "The following text is from Mick Herron’s 2023 novel The Secret Hours. The narrator is describing members of a government committee.\n\nFinally, and adding much-needed gravitas, was Sir Winston Day, whose features seemed moulded to adorn a bust, or possibly a stamp, and whose forehead was so evidently bulging with grey matter that it would have been impertinent to inquire too closely into the actual achievements his half century of public service had produced. His recently published memoirs possibly cast light on this enigma, but given that such details were not provided until after the thirty-page mark, they might as well have remained state secrets.\n\n©2023 by Mick Herron",
+    passage: "The following text is from Mick Herron’s 2023 novel <i>The Secret Hours</i>. The narrator is describing members of a government committee.<br><br>Finally, and adding much-needed gravitas, was Sir Winston Day, whose features seemed moulded to adorn a bust, or possibly a stamp, and whose forehead was so evidently bulging with grey matter that it would have been impertinent to inquire too closely into the actual achievements his half century of public service had produced. His recently published memoirs possibly cast light on this enigma, but given that such details were not provided until after the thirty-page mark, they might as well have remained state secrets.<br><br>©2023 by Mick Herron",
     img: "",
     question: "Based on the text, which choice best describes Sir Winston Day?",
     choice1: "He has the appearance of a distinguished figure, but it is uncertain whether he has accomplished anything to earn distinction.",
@@ -505,13 +505,13 @@ export const SAT2026PT11RWM2Q = {
     answer: "D"
   },
   37: {
-    passage: "Researcher Helen O’Neill and her team were studying sponges in the family Irciniidae when they discovered that three of the sponges were functioning as microhabitats for banded sand catsharks (Atelomycterus fasciatus). Additionally, the team found that male and female A. fasciatus share the same sponge (the same microhabitat), a behavior not found among Port Jackson sharks (Heterodontus portusjacksoni), another seabed-dwelling species.",
+    passage: "Researcher Helen O’Neill and her team were studying sponges in the family Irciniidae when they discovered that three of the sponges were functioning as microhabitats for banded sand catsharks (<i>Atelomycterus fasciatus</i>). Additionally, <u>the team found that male and female <i>A. fasciatus</i> share the same sponge (the same microhabitat)</u>, a behavior not found among Port Jackson sharks (<i>Heterodontus portusjacksoni</i>), another seabed-dwelling species.",
     img: "sat11-images/sat11-37.svg",
     question: "Which choice best describes data from the graph that support the underlined claim?",
-    choice1: "Each of the three sponges was inhabited by at least one male A. fasciatus and at least one undetermined A. fasciatus.",
-    choice2: "Sponge 1 was inhabited by 17 male A. fasciatus.",
-    choice3: "Each of the three sponges was inhabited by at least one male A. fasciatus and at least one female A. fasciatus.",
-    choice4: "Sponge 1 was inhabited by 13 female A. fasciatus.",
+    choice1: "Each of the three sponges was inhabited by at least one male <i>A. fasciatus</i> and at least one undetermined A. fasciatus.",
+    choice2: "Sponge 1 was inhabited by 17 male <i>A. fasciatus</i>.",
+    choice3: "Each of the three sponges was inhabited by at least one male <i>A. fasciatus</i> and at least one female A. fasciatus.",
+    choice4: "Sponge 1 was inhabited by 13 female <i>A. fasciatus</i>.",
     answer: "C"
   },
   38: {
@@ -575,7 +575,7 @@ export const SAT2026PT11RWM2Q = {
     answer: "B"
   },
   44: {
-    passage: "Artist Yto Barrada’s exhibition Ways to Baffle the Wind incorporates sculptures, textiles, and films. Barrada’s pieces, utilizing elements as disparate as plant-dyed fabrics, wire crab traps filled with stones, and cotton balls dangling above a fan, ______ the ways humans attempt to organize and regulate nature.",
+    passage: "Artist Yto Barrada’s exhibition <i>Ways to Baffle the Wind</i> incorporates sculptures, textiles, and films. Barrada’s pieces, utilizing elements as disparate as plant-dyed fabrics, wire crab traps filled with stones, and cotton balls dangling above a fan, ______ the ways humans attempt to organize and regulate nature.",
     img: "",
     question: "Which choice completes the text so that it conforms to the conventions of Standard English?",
     choice1: "explore",
@@ -585,7 +585,7 @@ export const SAT2026PT11RWM2Q = {
     answer: "A"
   },
   45: {
-    passage: "Tracy Fullerton’s Walden, a game, an unlikely fusion of the writings of nineteenth-century transcendentalist Henry David Thoreau with today’s open-world video games, ______ players to explore a digital version of Walden Pond, the idyllic natural setting featured in Thoreau’s book Walden.",
+    passage: "Tracy Fullerton’s <i>Walden, a game</i>, an unlikely fusion of the writings of nineteenth-century transcendentalist Henry David Thoreau with today’s open-world video games, ______ players to explore a digital version of <i>Walden</i> Pond, the idyllic natural setting featured in Thoreau’s book Walden.",
     img: "",
     question: "Which choice completes the text so that it conforms to the conventions of Standard English?",
     choice1: "invites",
@@ -655,13 +655,13 @@ export const SAT2026PT11RWM2Q = {
     answer: "D"
   },
   52: {
-    passage: "While researching a topic, a student has taken the following notes:\n\nThe meter of a poem is the rhythmic structure or pattern of accents in its lines. Alliterative meter is structured by a pattern of repeated sounds. Quantitative meter is structured by a pattern of long and short syllables. The Old English poem Widsith uses an alliterative meter. The Sanskrit poem Meghadūta uses a quantitative meter.",
+    passage: "While researching a topic, a student has taken the following notes:\n\nThe meter of a poem is the rhythmic structure or pattern of accents in its lines. Alliterative meter is structured by a pattern of repeated sounds. Quantitative meter is structured by a pattern of long and short syllables. The Old English poem <i>Widsith</i> uses an alliterative meter. The Sanskrit poem <i>Meghadūta</i> uses a quantitative meter.",
     img: "",
     question: "The student wants to emphasize a difference between the meters of the two poems. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
-    choice1: "The poem Widsith is written in Old English, but Meghadūta is written in Sanskrit.",
+    choice1: "The poem <i>Widsith</i> is written in Old English, but <i>Meghadūta</i> is written in Sanskrit.",
     choice2: "Alliterative meter is a pattern of repeated sounds, but quantitative meter is a rhythmic structure or pattern of accents.",
-    choice3: "The Sanskrit poem Meghadūta uses a quantitative meter, while the meter of the Old English poem Widsith uses a pattern of long and short syllables.",
-    choice4: "The lines of the poem Meghadūta use a pattern of long and short syllables, whereas Widsith’s lines use a pattern of repeated sounds.",
+    choice3: "The Sanskrit poem <i>Meghadūta</i> uses a quantitative meter, while the meter of the Old English poem <i>Widsith</i> uses a pattern of long and short syllables.",
+    choice4: "The lines of the poem <i>Meghadūta</i> use a pattern of long and short syllables, whereas <i>Widsith</i>’s lines use a pattern of repeated sounds.",
     answer: "D"
   },
   53: {
@@ -1144,7 +1144,7 @@ export const SAT2026PT11MM2Q = {
   },
   80: {
     img: "sat11-images/sat11-80.svg",
-    question: "In the given scatterplot, a line of best fit for the data is shown. Which of the following is closest to the slope of the line of best fit?",
+    question: "In the given scatterplot, a line of best fit for the data is shown.<br><br>Which of the following is closest to the slope of the line of best fit?",
     choice1: "\\(-2.45\\)",
     choice2: "\\(-0.22\\)",
     choice3: "\\(0.22\\)",

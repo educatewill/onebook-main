@@ -34,7 +34,7 @@ export const SAT2026PT9RWM1Q = {
     answer: "D"
   },
   4: {
-    passage: "Although science fiction was dominated mostly by white male authors when Octavia Butler, a Black woman, began writing, she did not view the genre as ______: Butler broke into the field with the publication of several short stories and her 1976 novel Patternmaster, and she later became the first science fiction writer to win a prestigious MacArthur Fellowship.",
+    passage: "Although science fiction was dominated mostly by white male authors when Octavia Butler, a Black woman, began writing, she did not view the genre as ______: Butler broke into the field with the publication of several short stories and her 1976 novel <i>Patternmaster</i>, and she later became the first science fiction writer to win a prestigious MacArthur Fellowship.",
     img: "",
     question: "Which choice completes the text with the most logical and precise word or phrase?",
     choice1: "legitimate",
@@ -44,7 +44,7 @@ export const SAT2026PT9RWM1Q = {
     answer: "B"
   },
   5: {
-    passage: "Oral histories—whether they consist of interviews or recordings of songs and stories—can offer researchers a rich view of people’s everyday experiences. For her book about coal mining communities in Kentucky during the twentieth century, Karida Brown therefore relied in part on interviews with coal miners and their families. By doing so, she gained valuable insights into her subjects’ day-to-day lives.",
+    passage: "Oral histories—whether they consist of interviews or recordings of songs and stories—can offer researchers a rich view of people’s everyday experiences. For her book about coal mining communities in Kentucky during the twentieth century, Karida Brown therefore relied in part on interviews with coal miners and their families. <u>By doing so, she gained valuable insights into her subjects’ day-to-day lives.</u>",
     img: "",
     question: "Which choice best describes the function of the underlined sentence in the text as a whole?",
     choice1: "It provides a little-known geographical fact about Kentucky.",
@@ -54,7 +54,7 @@ export const SAT2026PT9RWM1Q = {
     answer: "D"
   },
   6: {
-    passage: "The following text is from Sarah Orne Jewett’s 1899 short story “Martha’s Lady.” Martha is employed by Miss Pyne as a maid. Miss Pyne sat by the window watching, in her best dress, looking stately and calm; she seldom went out now, and it was almost time for the carriage. Martha was just coming in from the garden with the strawberries, and with more flowers in her apron. It was a bright cool evening in June, the golden robins sang in the elms, and the sun was going down behind the apple-trees at the foot of the garden. The beautiful old house stood wide open to the long-expected guest.",
+    passage: "The following text is from Sarah Orne Jewett’s 1899 short story “Martha’s Lady.” Martha is employed by Miss Pyne as a maid.<br><br>Miss Pyne sat by the window watching, in her best dress, looking stately and calm; she seldom went out now, and it was almost time for the carriage. Martha was just coming in from the garden with the strawberries, and with more flowers in her apron. It was a bright cool evening in June, the golden robins sang in the elms, and the sun was going down behind the apple-trees at the foot of the garden. The beautiful old house stood wide open to the long-expected guest.",
     img: "",
     question: "Which choice best states the main purpose of the text?",
     choice1: "To convey the worries brought about by a new guest",
@@ -64,7 +64,7 @@ export const SAT2026PT9RWM1Q = {
     answer: "D"
   },
   7: {
-    passage: "The following text is adapted from George Bernard Shaw’s 1912 play Pygmalion. Henry Higgins has just arrived at the house of his mother (Mrs. Higgins). She is expecting her friends to visit soon. MRS. HIGGINS: I’m serious, Henry. You offend all my friends: they stop coming whenever they meet you. HIGGINS: Nonsense! I know I have no small talk; but people don’t mind. MRS. HIGGINS: Oh! don’t they? Small talk indeed! What about your large talk? Really, dear, you mustn’t stay.",
+    passage: "The following text is adapted from George Bernard Shaw’s 1912 play <i>Pygmalion</i>. Henry Higgins has just arrived at the house of his mother (Mrs. Higgins). She is expecting her friends to visit soon.<br><br>MRS. HIGGINS: I’m serious, Henry. You offend all my friends: they stop coming whenever they meet you.<br>HIGGINS: Nonsense! I know I have no small talk; but people don’t mind.<br>MRS. HIGGINS: Oh! don’t they? Small talk indeed! What about your large talk? Really, dear, you mustn’t stay.",
     img: "",
     question: "Which choice best states the main purpose of the text?",
     choice1: "To describe what Henry’s mother does when she goes out with her friends",
@@ -74,7 +74,7 @@ export const SAT2026PT9RWM1Q = {
     answer: "B"
   },
   8: {
-    passage: "In response to concerns that some recent financial crises were exacerbated by consumers misunderstanding risks associated with credit cards, loans, and other financial products, policymakers in many countries have instituted risk-disclosure requirements on sellers of those products. Enrique Seira et al. investigated a variety of risk-disclosure messages sent to thousands of credit card customers and found that the messages had only small and short-lived effects on behavior. Seira et al. asserted that such effects may nevertheless be worth pursuing, given the negligible cost of messaging.",
+    passage: "In response to concerns that some recent financial crises were exacerbated by consumers misunderstanding risks associated with credit cards, loans, and other financial products, policymakers in many countries have instituted risk-disclosure requirements on sellers of those products. Enrique Seira et al. investigated a variety of risk-disclosure messages sent to thousands of credit card customers and found that the messages had only small and short-lived effects on behavior. Seira et al. asserted that such effects may nevertheless be worth pursuing, <u>given the negligible cost of messaging</u>.",
     img: "",
     question: "Which choice best describes the function of the underlined portion in the text as a whole?",
     choice1: "It notes a factor that led Seira et al. to not dismiss risk-disclosure messaging altogether despite their evidence of its limited utility.",
@@ -84,7 +84,7 @@ export const SAT2026PT9RWM1Q = {
     answer: "A"
   },
   9: {
-    passage: "The following text is adapted from Charles W. Chesnutt’s 1901 novel The Marrow of Tradition. Mrs. Ochiltree was a woman of strong individuality, whose comments upon her acquaintance[s], present or absent, were marked by a frankness at times no less than startling. This characteristic caused her to be more or less avoided. Mrs. Ochiltree was aware of this sentiment on the part of her acquaintance[s], and rather exulted in it.",
+    passage: "The following text is adapted from Charles W. Chesnutt’s 1901 novel <i>The Marrow of Tradition</i>.<br><br>Mrs. Ochiltree was a woman of strong individuality, whose comments upon her acquaintance[s], present or absent, were marked by a frankness at times no less than startling. This characteristic caused her to be more or less avoided. Mrs. Ochiltree was aware of this sentiment on the part of her acquaintance[s], and rather exulted in it.",
     img: "",
     question: "Based on the text, what is true about Mrs. Ochiltree’s acquaintances?",
     choice1: "They try to refrain from discussing topics that would upset Mrs. Ochiltree.",
@@ -114,7 +114,7 @@ export const SAT2026PT9RWM1Q = {
     answer: "C"
   },
   12: {
-    passage: "Many plants lose their leaf color when exposed to kanamycin, an antibiotic produced by some soil microorganisms. Spelman College biologist Mentewab Ayalew and her colleagues hypothesized that plants’ response to kanamycin exposure involves altering their uptake of metals, such as iron and zinc. The researchers grew two groups of seedlings of the plant Arabidopsis thaliana, half of which were exposed to kanamycin and half of which were a control group without exposure to kanamycin, and measured the plants’ metal content five days after germination.",
+    passage: "Many plants lose their leaf color when exposed to kanamycin, an antibiotic produced by some soil microorganisms. Spelman College biologist Mentewab Ayalew and her colleagues hypothesized that plants’ response to kanamycin exposure involves altering their uptake of metals, such as iron and zinc. The researchers grew two groups of seedlings of the plant <i>Arabidopsis</i> <i>thaliana</i>, half of which were exposed to kanamycin and half of which were a control group without exposure to kanamycin, and measured the plants’ metal content five days after germination.",
     img: "sat9-images/sat9-12.svg",
     question: "Which choice best describes data in the graph that support Ayalew and her colleagues’ hypothesis?",
     choice1: "The control plants contained higher levels of zinc than iron, but plants exposed to kanamycin contained higher levels of iron than zinc.",
@@ -144,7 +144,7 @@ export const SAT2026PT9RWM1Q = {
     answer: "A"
   },
   15: {
-    passage: "The widespread use of social media enables linguists to study changes in language usage in real time. A notable recent example is the proliferation of the affix meng- among speakers of Bahasa Indonesia, the official language of Indonesia. Linguists observed meng- originate as an onomatopoetic tag that social-media users applied to images of cats they posted; over time, users increasingly applied it as a prefix to existing words (e.g., mengsedih affixes meng- to the word for sad) in text that they posted. From there, it has begun to move into spoken Bahasa Indonesia. Linguists have noted many similar examples of this phenomenon occurring in other languages, suggesting that social media ______",
+    passage: "The widespread use of social media enables linguists to study changes in language usage in real time. A notable recent example is the proliferation of the affix <i>meng</i>- among speakers of Bahasa Indonesia, the official language of Indonesia. Linguists observed meng- originate as an onomatopoetic tag that social-media users applied to images of cats they posted; over time, users increasingly applied it as a prefix to existing words (e.g., <i>mengsedih</i> affixes meng- to the word for <i>sad</i>) in text that they posted. From there, it has begun to move into spoken Bahasa Indonesia. Linguists have noted many similar examples of this phenomenon occurring in other languages, suggesting that social media ______",
     img: "",
     question: "Which choice most logically completes the text?",
     choice1: "is more useful for studying informal language than for studying formal or official language.",
@@ -264,7 +264,7 @@ export const SAT2026PT9RWM1Q = {
     answer: "A"
   },
   27: {
-    passage: "While researching a topic, a student has taken the following notes: In 1851, German American artist Emanuel Leutze painted Washington Crossing the Delaware. His huge painting (149 × 255 inches) depicts the first US president crossing a river with soldiers in the Revolutionary War. In 2019, Cree artist Kent Monkman painted mistikôsiwak (Wooden Boat People): Resurgence of the People. Monkman’s huge painting (132 × 264 inches) was inspired by Leutze’s. It portrays Indigenous people in a boat rescuing refugees.",
+    passage: "While researching a topic, a student has taken the following notes: In 1851, German American artist Emanuel Leutze painted <i>Washington Crossing the Delaware</i>. His huge painting (149 × 255 inches) depicts the first US president crossing a river with soldiers in the Revolutionary War. In 2019, Cree artist Kent Monkman painted <i>mistikôsiwak (Wooden Boat People): Resurgence of the People</i>. Monkman’s huge painting (132 × 264 inches) was inspired by Leutze’s. It portrays Indigenous people in a boat rescuing refugees.",
     img: "",
     question: "The student wants to emphasize a similarity between the two paintings. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
     choice1: "Monkman, a Cree artist, finished his painting in 2019; Leutze, a German American artist, completed his in 1851.",
@@ -455,7 +455,7 @@ export const SAT2026PT9RWM2Q = {
     answer: "A"
   },
   32: {
-    passage: "The following text is from Charlotte Forten Grimké’s 1888 poem “At Newport.” Oh, deep delight to watch the gladsome waves Exultant leap upon the rugged rocks; Ever repulsed, yet ever rushing on— Filled with a life that will not know defeat; To see the glorious hues of sky and sea. The distant snowy sails, glide spirit like, Into an unknown world, to feel the sweet Enchantment of the sea thrill all the soul, Clearing the clouded brain, making the heart Leap joyous as it own bright, singing waves!",
+    passage: "The following text is from Charlotte Forten Grimké’s 1888 poem “At Newport.”<br><br>Oh, deep delight to watch the gladsome waves<br>Exultant leap upon the rugged rocks;<br><u>Ever repulsed, yet ever rushing on—<br>Filled with a life that will not know defeat;</u><br>To see the glorious hues of sky and sea.<br>The distant snowy sails, glide spirit like,<br>Into an unknown world, to feel the sweet<br>Enchantment of the sea thrill all the soul,<br>Clearing the clouded brain, making the heart<br>Leap joyous as it own bright, singing waves!",
     img: "",
     question: "Which choice best describes the function of the underlined portion in the text as a whole?",
     choice1: "It portrays the surroundings as an imposing and intimidating scene.",
@@ -465,9 +465,9 @@ export const SAT2026PT9RWM2Q = {
     answer: "B"
   },
   33: {
-    passage: "Text 1 Ecologists have long wondered how thousands of microscopic phytoplankton species can live together near ocean surfaces competing for the same resources. According to conventional wisdom, one species should emerge after outcompeting the rest. So why do so many species remain? Ecologists’ many efforts to explain this phenomenon still haven’t uncovered a satisfactory explanation. Text 2 Ecologist Michael Behrenfeld and colleagues have connected phytoplankton’s diversity to their microscopic size. Because these organisms are so tiny, they are spaced relatively far apart from each other in ocean water and, moreover, experience that water as a relatively dense substance. This in turn makes it hard for them to move around and interact with one another. Therefore, says Behrenfeld’s team, direct competition among phytoplankton probably happens much less than previously thought.",
+    passage: "Text 1<br><br>Ecologists have long wondered how thousands of microscopic phytoplankton species can live together near ocean surfaces competing for the same resources. According to <u>conventional wisdom</u>, one species should emerge after outcompeting the rest. So why do so many species remain? Ecologists’ many efforts to explain this phenomenon still haven’t uncovered a satisfactory explanation.<br><br>Text 2<br><br>Ecologist Michael Behrenfeld and colleagues have connected phytoplankton’s diversity to their microscopic size. Because these organisms are so tiny, they are spaced relatively far apart from each other in ocean water and, moreover, experience that water as a relatively dense substance. This in turn makes it hard for them to move around and interact with one another. Therefore, says Behrenfeld’s team, direct competition among phytoplankton probably happens much less than previously thought.",
     img: "",
-    question: "Based on the texts, how would Behrenfeld and colleagues (Text 2) most likely respond to the “conventional wisdom” discussed in Text 1?",
+    question: "Based on the texts, how would Behrenfeld and colleagues (Text 2) most likely respond to the “<u>conventional wisdom</u>” discussed in Text 1?",
     choice1: "By arguing that it is based on a misconception about phytoplankton species competing with one another",
     choice2: "By asserting that it fails to recognize that routine replenishment of ocean nutrients prevents competition between phytoplankton species",
     choice3: "By suggesting that their own findings help clarify how phytoplankton species are able to compete with larger organisms",
@@ -475,9 +475,9 @@ export const SAT2026PT9RWM2Q = {
     answer: "A"
   },
   34: {
-    passage: "For many years, the only existing fossil evidence of mixopterid eurypterids—an extinct family of large aquatic arthropods known as sea scorpions and related to modern arachnids and horseshoe crabs—came from four species living on the paleocontinent of Laurussia. In a discovery that expands our understanding of the geographical distribution of mixopterids, paleontologist Bo Wang and others have identified fossilized remains of a new mixopterid species, Terropterus xiushanensis, that lived over 400 million years ago on the paleocontinent of Gondwana.",
+    passage: "For many years, the only existing fossil evidence of mixopterid eurypterids—an extinct family of large aquatic arthropods known as sea scorpions and related to modern arachnids and horseshoe crabs—came from four species living on the paleocontinent of Laurussia. In a discovery that expands our understanding of the geographical distribution of mixopterids, paleontologist Bo Wang and others have identified fossilized remains of a new mixopterid species, <i>Terropterus xiushanensis</i>, that lived over 400 million years ago on the paleocontinent of Gondwana.",
     img: "",
-    question: "According to the text, why was Wang and his team’s discovery of the Terropterus xiushanensis fossil significant?",
+    question: "According to the text, why was Wang and his team’s discovery of the <i>Terropterus xiushanensis</i> fossil significant?",
     choice1: "The fossil constitutes the first evidence found by scientists that mixopterids lived more than 400 million years ago.",
     choice2: "The fossil helps establish that mixopterids are more closely related to modern arachnids and horseshoe crabs than previously thought.",
     choice3: "The fossil helps establish a more accurate timeline of the evolution of mixopterids on the paleocontinents of Laurussia and Gondwana.",
@@ -485,22 +485,22 @@ export const SAT2026PT9RWM2Q = {
     answer: "D"
   },
   35: {
-    passage: "Poetry in Classical Nahuatl, the language of the Aztec Empire, relies on difrasismo, or a parallel noun construction that conventionally operates as a single metaphor. For example, the common difrasismo in cuauhtli in ocelotl (literally, “the eagle, the jaguar”) signifies “warrior.” The device’s function is both formal—providing structure to lines of verse—and ritual: semantic relations among the two nouns and the concept they signify can be tenuous, as in the previous example, such that difrasismos are often only intelligible according to the conceptual associations observed in Aztec ceremonial culture.",
+    passage: "Poetry in Classical Nahuatl, the language of the Aztec Empire, relies on <i>difrasismo</i>, or a parallel noun construction that conventionally operates as a single metaphor. For example, the common difrasismo <i>in cuauhtli in ocelotl</i> (literally, “the eagle, the jaguar”) signifies “warrior.” The device’s function is both formal—providing structure to lines of verse—and ritual: semantic relations among the two nouns and the concept they signify can be tenuous, as in the previous example, such that difrasismos are often only intelligible according to the conceptual associations observed in Aztec ceremonial culture.",
     img: "",
-    question: "Which statement about the difrasismo in cuauhtli in ocelotl is most strongly supported by the text?",
-    choice1: "Its metaphorical significance derives from the semantic equivalence of the two nouns constituting the difrasismo.",
+    question: "Which statement about the <i>difrasismo</i> <i>in cuauhtli in ocelotl</i> is most strongly supported by the text?",
+    choice1: "Its metaphorical significance derives from the semantic equivalence of the two nouns constituting the <i>difrasismo</i>.",
     choice2: "Its unintelligibility may cause its formal function within a line of verse to go unnoticed by present-day readers.",
     choice3: "Its apparent obscurity can be resolved when considered in the proper cultural context.",
     choice4: "Its frequency in Classical Nahuatl poetry confirms its intelligibility to the Aztec audience.",
     answer: "C"
   },
   36: {
-    passage: "The population of the coral Lophelia pertusa declined significantly around 9,000 years ago in the Alboran Sea and around 11,000 years ago near the Mauritanian coast. Using the ratio of manganese to calcium, which inversely correlates with ocean oxygenation levels, marine scientist Rodrigo da Costa Portilho-Ramos and colleagues evaluated whether oxygenation played a role in the declines of L. pertusa. The researchers concluded that oxygenation may have been important in the Alboran Sea but not near the Mauritanian coast, since ______",
+    passage: "The population of the coral <i>Lophelia pertusa</i> declined significantly around 9,000 years ago in the Alboran Sea and around 11,000 years ago near the Mauritanian coast. Using the ratio of manganese to calcium, which inversely correlates with ocean oxygenation levels, marine scientist Rodrigo da Costa Portilho-Ramos and colleagues evaluated whether oxygenation played a role in the declines of <i>L. pertusa</i>. The researchers concluded that oxygenation may have been important in the Alboran Sea but not near the Mauritanian coast, since ______",
     img: "sat9-images/sat9-36.svg",
     question: "Which choice most effectively uses data from the graph to complete the statement?",
-    choice1: "a substantial increase in oxygenation in the Alboran Sea corresponded with the local decline in L. pertusa, but the opposite relationship between oxygenation and L. pertusa was found near the Mauritanian coast.",
-    choice2: "L. pertusa declined in the Alboran Sea during a period of substantial local decline in oxygenation, but L. pertusa declined near the Mauritanian coast during a period of little local change in oxygenation.",
-    choice3: "oxygenation in the Alboran Sea was higher before the decline in L. pertusa than after the decline, whereas oxygenation near the Mauritanian coast was relatively low both before and after the decline in L. pertusa.",
+    choice1: "a substantial increase in oxygenation in the Alboran Sea corresponded with the local decline in <i>L. pertusa</i>, but the opposite relationship between oxygenation and L. pertusa was found near the Mauritanian coast.",
+    choice2: "<i>L. pertusa</i> declined in the Alboran Sea during a period of substantial local decline in oxygenation, but L. pertusa declined near the Mauritanian coast during a period of little local change in oxygenation.",
+    choice3: "oxygenation in the Alboran Sea was higher before the decline in <i>L. pertusa</i> than after the decline, whereas oxygenation near the Mauritanian coast was relatively low both before and after the decline in L. pertusa.",
     choice4: "oxygenation in the Alboran Sea tended to be substantially higher than oxygenation near the Mauritanian coast during the period studied.",
     answer: "B"
   },
@@ -535,33 +535,33 @@ export const SAT2026PT9RWM2Q = {
     answer: "C"
   },
   40: {
-    passage: "Among social animals that care for their young, such as chickens, macaque monkeys, and humans, newborns appear to show an innate attraction to faces and face-like stimuli. Elisabetta Versace and her colleagues used an image of three black dots arranged in the shape of eyes and a nose or mouth to test whether this trait also occurs in Testudo tortoises, which live alone and do not engage in parental care. They found that tortoise hatchlings showed a significant preference for the image, suggesting that ______",
+    passage: "Among social animals that care for their young, such as chickens, macaque monkeys, and humans, newborns appear to show an innate attraction to faces and face-like stimuli. Elisabetta Versace and her colleagues used an image of three black dots arranged in the shape of eyes and a nose or mouth to test whether this trait also occurs in <i>Testudo</i> tortoises, which live alone and do not engage in parental care. They found that tortoise hatchlings showed a significant preference for the image, suggesting that ______",
     img: "",
     question: "Which choice most logically completes the text?",
     choice1: "face-like stimuli are likely perceived as harmless by newborns of social species that practice parental care but as threatening by newborns of solitary species without parental care.",
     choice2: "researchers should not assume that an innate attraction to face-like stimuli is necessarily an adaptation related to social interaction or parental care.",
     choice3: "researchers can assume that the attraction to face-like stimuli that is seen in social species that practice parental care is learned rather than innate.",
-    choice4: "newly hatched Testudo tortoises show a stronger preference for face-like stimuli than adult Testudo tortoises do.",
+    choice4: "newly hatched <i>Testudo</i> tortoises show a stronger preference for face-like stimuli than adult Testudo tortoises do.",
     answer: "B"
   },
   41: {
-    passage: "In a study of the cognitive abilities of white-faced capuchin monkeys (Cebus imitator), researchers neglected to control for the physical difficulty of the tasks they used to evaluate the monkeys. The cognitive abilities of monkeys given problems requiring little dexterity, such as sliding a panel to retrieve food, were judged by the same criteria as were those of monkeys given physically demanding problems, such as unscrewing a bottle and inserting a straw. The results of the study, therefore, ______",
+    passage: "In a study of the cognitive abilities of white-faced capuchin monkeys (<i>Cebus imitator</i>), researchers neglected to control for the physical difficulty of the tasks they used to evaluate the monkeys. The cognitive abilities of monkeys given problems requiring little dexterity, such as sliding a panel to retrieve food, were judged by the same criteria as were those of monkeys given physically demanding problems, such as unscrewing a bottle and inserting a straw. The results of the study, therefore, ______",
     img: "",
     question: "Which choice most logically completes the text?",
     choice1: "could suggest that there are differences in cognitive ability among the monkeys even though such differences may not actually exist.",
     choice2: "are useful for identifying tasks that the monkeys lack the cognitive capacity to perform but not for identifying tasks that the monkeys can perform.",
-    choice3: "should not be taken as indicative of the cognitive abilities of any monkey species other than C. imitator.",
+    choice3: "should not be taken as indicative of the cognitive abilities of any monkey species other than <i>C. imitator</i>.",
     choice4: "reveal more about the monkeys’ cognitive abilities when solving artificial problems than when solving problems encountered in the wild.",
     answer: "A"
   },
   42: {
-    passage: "In crafting her fantasy fiction, Nigerian-born British author Helen Oyeyemi has drawn inspiration from the classic nineteenth-century fairy tales of the Brothers Grimm. Her 2014 novel Boy, Snow, Bird, for instance, is a complex retelling of the story of Snow White, while her 2019 novel ______ offers a delicious twist on the classic tale of Hansel and Gretel.",
+    passage: "In crafting her fantasy fiction, Nigerian-born British author Helen Oyeyemi has drawn inspiration from the classic nineteenth-century fairy tales of the Brothers Grimm. Her 2014 novel <i>Boy, Snow, Bird</i>, for instance, is a complex retelling of the story of Snow White, while her 2019 novel ______ offers a delicious twist on the classic tale of Hansel and Gretel.",
     img: "",
     question: "Which choice completes the text so that it conforms to the conventions of Standard English?",
-    choice1: "­­Gingerbread—",
-    choice2: "­­Gingerbread,",
-    choice3: "Gingerbread",
-    choice4: "­­Gingerbread:",
+    choice1: "<i>­­Gingerbread</i>—",
+    choice2: "<i>­­Gingerbread</i>,",
+    choice3: "<i>Gingerbread</i>",
+    choice4: "<i>­­Gingerbread</i>:",
     answer: "C"
   },
   43: {
@@ -595,7 +595,7 @@ export const SAT2026PT9RWM2Q = {
     answer: "D"
   },
   46: {
-    passage: "Recent pollen analyses of the Aran Islands have led some researchers to propose that the now treeless islands were once wooded. This hypothesis ______ that certain trees, such as P. sylvestris, survived without interruption or human intervention throughout the Holocene cannot stand, researchers Michael O’Connell and Karen Molloy counter, unless other explanations can first be ruled out.",
+    passage: "Recent pollen analyses of the Aran Islands have led some researchers to propose that the now treeless islands were once wooded. This hypothesis ______ that certain trees, such as <i>P. sylvestris</i>, survived without interruption or human intervention throughout the Holocene cannot stand, researchers Michael O’Connell and Karen Molloy counter, unless other explanations can first be ruled out.",
     img: "",
     question: "Which choice completes the text so that it conforms to the conventions of Standard English?",
     choice1: "suggesting",
@@ -625,7 +625,7 @@ export const SAT2026PT9RWM2Q = {
     answer: "D"
   },
   49: {
-    passage: "With his room-sized installation Unicorn/My Private Sky, Norwegian artist Børre Sæthre succeeds in creating a whimsical yet perplexing experience. ______ when visitors set foot inside the fantastically blue room and encounter the life-sized stuffed unicorn preening at the far end of it, they are both dazzled and confused—as if stepping into a strange and enchanting new world.",
+    passage: "With his room-sized installation <i>Unicorn/My Private Sky</i>, Norwegian artist Børre Sæthre succeeds in creating a whimsical yet perplexing experience. ______ when visitors set foot inside the fantastically blue room and encounter the life-sized stuffed unicorn preening at the far end of it, they are both dazzled and confused—as if stepping into a strange and enchanting new world.",
     img: "",
     question: "Which choice completes the text with the most logical transition?",
     choice1: "Second,",
@@ -645,13 +645,13 @@ export const SAT2026PT9RWM2Q = {
     answer: "D"
   },
   51: {
-    passage: "While researching a topic, a student has taken the following notes: Shaun Tan is an Australian author. In 2008, he published Tales from Outer Suburbia, a book of fifteen short stories. The stories describe surreal events occurring in otherwise ordinary suburban neighborhoods. In 2018, he published Tales from the Inner City, a book of twenty-five short stories. The stories describe surreal events occurring in otherwise ordinary urban settings.",
+    passage: "While researching a topic, a student has taken the following notes: Shaun Tan is an Australian author. In 2008, he published <i>Tales from Outer Suburbia</i>, a book of fifteen short stories. The stories describe surreal events occurring in otherwise ordinary suburban neighborhoods. In 2018, he published <i>Tales from the Inner City</i>, a book of twenty-five short stories. The stories describe surreal events occurring in otherwise ordinary urban settings.",
     img: "",
     question: "The student wants to emphasize a similarity between the two books by Shaun Tan. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
-    choice1: "Shaun Tan’s book Tales from Outer Suburbia, which describes surreal events occurring in otherwise ordinary places, contains fewer short stories than Tales from the Inner City does.",
-    choice2: "Tales from Outer Suburbia was published in 2008, and Tales from the Inner City was published in 2018.",
-    choice3: "Unlike Tales from the Inner City, Shaun Tan’s book Tales from Outer Suburbia is set in suburban neighborhoods.",
-    choice4: "Shaun Tan’s books Tales from Outer Suburbia and Tales from the Inner City both describe surreal events occurring in otherwise ordinary places.",
+    choice1: "Shaun Tan’s book <i>Tales from Outer Suburbia</i>, which describes surreal events occurring in otherwise ordinary places, contains fewer short stories than <i>Tales from the Inner City</i> does.",
+    choice2: "<i>Tales from Outer Suburbia</i> was published in 2008, and <i>Tales from the Inner City</i> was published in 2018.",
+    choice3: "Unlike <i>Tales from the Inner City</i>, Shaun Tan’s book <i>Tales from Outer Suburbia</i> is set in suburban neighborhoods.",
+    choice4: "Shaun Tan’s books <i>Tales from Outer Suburbia</i> and <i>Tales from the Inner City</i> both describe surreal events occurring in otherwise ordinary places.",
     answer: "D"
   },
   52: {
@@ -665,13 +665,13 @@ export const SAT2026PT9RWM2Q = {
     answer: "B"
   },
   53: {
-    passage: "While researching a topic, a student has taken the following notes: Cecilia Vicuña is a multidisciplinary artist. In 1971, her first solo art exhibition, Pinturas, poemas y explicaciones, was shown at the Museo Nacional de Bellas Artes in Santiago, Chile. Her poetry collection Precario/Precarious was published in 1983 by Tanam Press. Her poetry collection Instan was published in 2002 by Kelsey St. Press. She lives part time in Chile, where she was born, and part time in New York.",
+    passage: "While researching a topic, a student has taken the following notes: Cecilia Vicuña is a multidisciplinary artist. In 1971, her first solo art exhibition, <i>Pinturas, poemas y explicaciones</i>, was shown at the Museo Nacional de Bellas Artes in Santiago, Chile. Her poetry collection <i>Precario/Precarious</i> was published in 1983 by Tanam Press. Her poetry collection <i>Instan</i> was published in 2002 by Kelsey St. Press. She lives part time in Chile, where she was born, and part time in New York.",
     img: "",
     question: "The student wants to introduce the artist’s 1983 poetry collection. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
-    choice1: "Before she published the books Precario/Precarious (1983) and Instan (2002), Cecilia Vicuña exhibited visual art at the Museo Nacional de Bellas Artes in Santiago, Chile.",
+    choice1: "Before she published the books <i>Precario/Precarious</i> (1983) and <i>Instan</i> (2002), Cecilia Vicuña exhibited visual art at the Museo Nacional de Bellas Artes in Santiago, Chile.",
     choice2: "Cecilia Vicuña is a true multidisciplinary artist whose works include numerous poetry collections and visual art exhibitions.",
-    choice3: "Published in 1983 by Tanam Press, Precario/Precarious is a collection of poetry by the multidisciplinary artist Cecilia Vicuña.",
-    choice4: "In 1971, Cecilia Vicuña exhibited her first solo art exhibition, Pinturas, poemas y explicaciones, in Chile, her country of birth.",
+    choice3: "Published in 1983 by Tanam Press, <i>Precario/Precarious</i> is a collection of poetry by the multidisciplinary artist Cecilia Vicuña.",
+    choice4: "In 1971, Cecilia Vicuña exhibited her first solo art exhibition, <i>Pinturas, poemas y explicaciones</i>, in Chile, her country of birth.",
     answer: "C"
   },
   54: {
@@ -950,7 +950,7 @@ export const SAT2026PT9MM1Q = {
   },
   70: {
     img: "",
-    question: "The function \\(f\\) is defined by \\(f(x) = (x - 6)(x - 2)(x + 6)\\). In the xy-plane, the graph of \\(y = g(x)\\) is the result of translating the graph of \\(y = f(x)\\) up \\(4\\) units. What is the value of \\(g(0)\\)?",
+    question: "The function \\(f\\) is defined by \\(f(x) = (x - 6)(x - 2)(x + 6)\\). In the <i>xy</i>-plane, the graph of \\(y = g(x)\\) is the result of translating the graph of \\(y = f(x)\\) up \\(4\\) units. What is the value of \\(g(0)\\)?",
     answer: "76"
   },
   71: {
@@ -960,7 +960,7 @@ export const SAT2026PT9MM1Q = {
   },
   72: {
     img: "",
-    question: "\\(f(t) = 8,000(0.65)^{t}\\) The given function \\(f\\) models the number of coupons a company sent to their customers at the end of each year, where \\(t\\) represents the number of years since the end of \\(1998\\), and \\(0 \\le t \\le 5\\). If \\(y = f(t)\\) is graphed in the ty-plane, which of the following is the best interpretation of the y-intercept of the graph in this context?",
+    question: "\\(f(t) = 8,000(0.65)^{t}\\) The given function \\(f\\) models the number of coupons a company sent to their customers at the end of each year, where \\(t\\) represents the number of years since the end of \\(1998\\), and \\(0 \\le t \\le 5\\). If \\(y = f(t)\\) is graphed in the <i>ty</i>-plane, which of the following is the best interpretation of the y-intercept of the graph in this context?",
     choice1: "The minimum estimated number of coupons the company sent to their customers during the \\(5\\) years was \\(1,428\\).",
     choice2: "The minimum estimated number of coupons the company sent to their customers during the \\(5\\) years was \\(8,000\\).",
     choice3: "The estimated number of coupons the company sent to their customers at the end of \\(1998\\) was \\(1,428\\).",
@@ -1158,7 +1158,7 @@ export const SAT2026PT9MM2Q = {
   },
   82: {
     img: "",
-    question: "The function \\(h\\) is defined by \\(h(x) = 4x + 28\\). The graph of \\(y = h(x)\\) in the xy-plane has an x-intercept at \\((a,0)\\) and a y-intercept at \\((0,b)\\), where \\(a\\) and \\(b\\) are constants. What is the value of \\(a + b\\)?",
+    question: "The function \\(h\\) is defined by \\(h(x) = 4x + 28\\). The graph of \\(y = h(x)\\) in the <i>xy</i>-plane has an x-intercept at \\((a,0)\\) and a y-intercept at \\((0,b)\\), where \\(a\\) and \\(b\\) are constants. What is the value of \\(a + b\\)?",
     choice1: "\\(21\\)",
     choice2: "\\(28\\)",
     choice3: "\\(32\\)",
@@ -1222,7 +1222,7 @@ export const SAT2026PT9MM2Q = {
   },
   90: {
     img: "sat9-images/sat9-90.svg",
-    question: "The table gives the coordinates of two points on a line in the xy-plane. The y-intercept of the line is \\((k - 5,b)\\), where \\(k\\) and \\(b\\) are constants. What is the value of \\(b\\)?",
+    question: "The table gives the coordinates of two points on a line in the <i>xy</i>-plane. The y-intercept of the line is \\((k - 5,b)\\), where \\(k\\) and \\(b\\) are constants. What is the value of \\(b\\)?",
     answer: "33"
   },
   91: {
@@ -1263,7 +1263,7 @@ export const SAT2026PT9MM2Q = {
   },
   95: {
     img: "",
-    question: "In the xy-plane, the graph of the equation \\(y = - x^{2} + 9x - 100\\) intersects the line \\(y = c\\) at exactly one point. What is the value of \\(c\\)?",
+    question: "In the <i>xy</i>-plane, the graph of the equation \\(y = - x^{2} + 9x - 100\\) intersects the line \\(y = c\\) at exactly one point. What is the value of \\(c\\)?",
     choice1: "\\(- \\frac{481}{4}\\)",
     choice2: "\\(- 100\\)",
     choice3: "\\(- \\frac{319}{4}\\)",
@@ -1277,7 +1277,7 @@ export const SAT2026PT9MM2Q = {
   },
   97: {
     img: "",
-    question: "The area of a rectangular region is increasing at a rate of \\(250\\) square feet per hour. Which of the following is closest to this rate in square meters per minute? \\((Use 1 meter = 3.28 feet.)\\)",
+    question: "The area of a rectangular region is increasing at a rate of \\(250\\) square feet per hour. Which of the following is closest to this rate in <u>square meters per minute</u>? \\((Use 1 meter = 3.28 feet.)\\)",
     choice1: "\\(0.39\\)",
     choice2: "\\(1.27\\)",
     choice3: "\\(13.67\\)",
@@ -1286,7 +1286,7 @@ export const SAT2026PT9MM2Q = {
   },
   98: {
     img: "",
-    question: "\\(5x + 7y = 1\\) \\(ax + by = 1\\) In the given pair of equations, \\(a\\) and \\(b\\) are constants. The graph of this pair of equations in the xy-plane is a pair of perpendicular lines. Which of the following pairs of equations also represents a pair of perpendicular lines?",
+    question: "\\(5x + 7y = 1\\) \\(ax + by = 1\\) In the given pair of equations, \\(a\\) and \\(b\\) are constants. The graph of this pair of equations in the <i>xy</i>-plane is a pair of perpendicular lines. Which of the following pairs of equations also represents a pair of perpendicular lines?",
     choice1: "\\(10x + 7y = 1\\) \\(ax - 2by = 1\\)",
     choice2: "\\(10x + 7y = 1\\) \\(ax + 2by = 1\\)",
     choice3: "\\(10x + 7y = 1\\) \\(2ax + by = 1\\)",

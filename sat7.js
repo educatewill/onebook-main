@@ -14,9 +14,9 @@ export const SAT2026PT7RWM1Q = {
     "answer": "D"
   },
   2: {
-    "passage": "The following text is from John Muir’s 1913 autobiography The Story of My Boyhood and Youth. Muir describes being on a boat. The water was so clear that it was almost invisible, and when we floated slowly out over the plants and fishes, we seemed to be miraculously sustained in the air while exploring a veritable fairyland.",
+    "passage": "The following text is from John Muir’s 1913 autobiography <i>The Story of My Boyhood and Youth</i>. Muir describes being on a boat.<br><br>The water was so <u>clear</u> that it was almost invisible, and when we floated slowly out over the plants and fishes, we seemed to be miraculously sustained in the air while exploring a veritable fairyland.",
     "img": "",
-    "question": "As used in the text, what does the word “clear” most nearly mean?",
+    "question": "As used in the text, what does the word “<u>clear</u>” most nearly mean?",
     "choice1": "Simple",
     "choice2": "Understandable",
     "choice3": "Obvious",
@@ -44,7 +44,7 @@ export const SAT2026PT7RWM1Q = {
     "answer": "B"
   },
   5: {
-    "passage": "In the 1950s, scientists didn’t know much about the ocean floor. Many scientists at the time believed that the ocean floor was mostly flat. But geologist Marie Tharp and her research partner, Bruce Heezen, proved that this idea was wrong. Using sonar data collected from the Atlantic Ocean, Tharp and Heezen showed that the floor was filled with canyons, mountains, and valleys.",
+    "passage": "In the 1950s, scientists didn’t know much about the ocean floor. <u>Many scientists at the time believed that the ocean floor was mostly flat.</u> But geologist Marie Tharp and her research partner, Bruce Heezen, proved that this idea was wrong. Using sonar data collected from the Atlantic Ocean, Tharp and Heezen showed that the floor was filled with canyons, mountains, and valleys.",
     "img": "",
     "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
     "choice1": "It identifies a scientific belief that Tharp and Heezen showed to be wrong.",
@@ -54,7 +54,7 @@ export const SAT2026PT7RWM1Q = {
     "answer": "A"
   },
   6: {
-    "passage": "In the early days of television in the 1940s, many people thought that US television programs would rely on the financial support of ad agencies and commercial sponsors, much like radio did. But advertisers hesitated to jump into a new space, particularly at a time when the manufacturing of new television sets was stalled due to the US’s involvement in World War II. Broadcasters, like the National Broadcasting Company (NBC), needed to persuade advertisers to support their programming despite not knowing whether there would be a robust television audience to begin with.",
+    "passage": "In the early days of television in the 1940s, many people thought that US television programs would rely on the financial support of ad agencies and commercial sponsors, much like radio did. But advertisers hesitated to jump into a new space, <u>particularly at a time when the manufacturing of new television sets was stalled due to the US’s involvement in World War II.</u> Broadcasters, like the National Broadcasting Company (NBC), needed to persuade advertisers to support their programming despite not knowing whether there would be a robust television audience to begin with.",
     "img": "",
     "question": "Which choice best describes the function of the underlined phrase in the text as a whole?",
     "choice1": "It compares the beginnings of radio programming with the beginnings of television programming in the United States.",
@@ -74,7 +74,7 @@ export const SAT2026PT7RWM1Q = {
     "answer": "D"
   },
   8: {
-    "passage": "Text 1 Little is known about how plate tectonics—wherein slabs of Earth’s crust move over, under, away from, and against one another—began. Some researchers contend that tectonic movements began around 3 billion years ago, often noting that computer models of Earth’s mantle temperature at the time indicate that the mantle would have been sufficiently molten to enable the plates to move. Text 2 Ultimately, any plausible claim about the inception of tectonic movement must rest on empirical evidence from the geological record. Researcher Wriju Chowdhury and his team analyzed the geochemistry of zircon crystals to gain insight into the chemical composition of the magma from which the crystals formed and, based on the data, compellingly argue that plate tectonics may have been occurring as early as 4.2 billion years ago.",
+    "passage": "Text 1<br><br>Little is known about how plate tectonics—wherein slabs of Earth’s crust move over, under, away from, and against one another—began. <u>Some researchers contend</u> that tectonic movements began around 3 billion years ago, often noting that computer models of Earth’s mantle temperature at the time indicate that the mantle would have been sufficiently molten to enable the plates to move.<br><br>Text 2<br><br>Ultimately, any plausible claim about the inception of tectonic movement must rest on empirical evidence from the geological record. Researcher Wriju Chowdhury and his team analyzed the geochemistry of zircon crystals to gain insight into the chemical composition of the magma from which the crystals formed and, based on the data, compellingly argue that plate tectonics may have been occurring as early as 4.2 billion years ago.",
     "img": "",
     "question": "Based on the texts, how would the author of Text 2 most likely respond to what “some researchers contend” as described in Text 1?",
     "choice1": "By suggesting that the temperature of Earth’s mantle 3 billion years ago was likely insufficient to allow for the level of tectonic movement predicted by computer models",
@@ -84,13 +84,13 @@ export const SAT2026PT7RWM1Q = {
     "answer": "D"
   },
   9: {
-    "passage": "In 2018, scientists discovered an immense aggregation of Muusoctopus robustus (pearl octopuses) along a hydrothermal vent 3,200 meters beneath the ocean’s surface. Water temperatures at this site—named the Octopus Garden—climb as high as 11^{\\circ}C, much warmer than the ambient 1.6^{\\circ}C typical at this depth. Based on observations made over three years, scientists concluded that temperatures at the site likely confer reproductive benefits and that the site is used exclusively for reproduction—6,000 M. robustus adults, hatchlings, and eggs were observed at the garden, but no juveniles were present.",
+    "passage": "In 2018, scientists discovered an immense aggregation of <i>Muusoctopus robustus</i> (pearl octopuses) along a hydrothermal vent 3,200 meters beneath the ocean’s surface. Water temperatures at this site—named the Octopus Garden—climb as high as 11^{\\circ}C, much warmer than the ambient 1.6^{\\circ}C typical at this depth. Based on observations made over three years, scientists concluded that temperatures at the site likely confer reproductive benefits and that the site is used exclusively for reproduction—6,000 <i>M. robustus</i> adults, hatchlings, and eggs were observed at the garden, but no juveniles were present.",
     "img": "",
-    "question": "Which statement about M. robustus and the Octopus Garden is best supported by the text?",
-    "choice1": "M. robustus leave the Octopus Garden upon reaching an intermediary stage of development.",
-    "choice2": "The M. robustus population at the Octopus Garden remains stable despite variations in water temperature.",
-    "choice3": "M. robustus nests in the Octopus Garden contain on average fewer but larger eggs than nests at similar ocean depths.",
-    "choice4": "The Octopus Garden provides an ideal feeding ground for M. robustus hatchlings.",
+    "question": "Which statement about <i>M. robustus</i> and the Octopus Garden is best supported by the text?",
+    "choice1": "<i>M. robustus</i> leave the Octopus Garden upon reaching an intermediary stage of development.",
+    "choice2": "The <i>M. robustus</i> population at the Octopus Garden remains stable despite variations in water temperature.",
+    "choice3": "<i>M. robustus</i> nests in the Octopus Garden contain on average fewer but larger eggs than nests at similar ocean depths.",
+    "choice4": "The Octopus Garden provides an ideal feeding ground for <i>M. robustus</i> hatchlings.",
     "answer": "A"
   },
   10: {
@@ -114,7 +114,7 @@ export const SAT2026PT7RWM1Q = {
     "answer": "B"
   },
   12: {
-    "passage": "Puerto Rico is an island in the Caribbean Sea. Indigenous people there started raising guinea pigs about 1,700 years ago. Guinea pigs had originally been domesticated much earlier in both Colombia and Peru. So were guinea pigs brought to Puerto Rico from Colombia or from Peru? Ancient Caribbean trade routes connected Puerto Rico with Colombia but not with Peru. Therefore, guinea pigs in Puerto Rico probably came from Colombia and descended from Colombian guinea pigs.",
+    "passage": "Puerto Rico is an island in the Caribbean Sea. Indigenous people there started raising guinea pigs about 1,700 years ago. Guinea pigs had originally been domesticated much earlier in both Colombia and Peru. So were guinea pigs brought to Puerto Rico from Colombia or from Peru? Ancient Caribbean trade routes connected Puerto Rico with Colombia but not with Peru. <u>Therefore, guinea pigs in Puerto Rico probably came from Colombia and descended from Colombian guinea pigs.</u>",
     "img": "",
     "question": "Which finding, if true, would most directly weaken the underlined claim?",
     "choice1": "Ancient guinea pigs in Puerto Rico were genetically less similar to ancient guinea pigs in Colombia than to ancient guinea pigs in Peru.",
@@ -164,7 +164,7 @@ export const SAT2026PT7RWM1Q = {
     "answer": "B"
   },
   17: {
-    "passage": "Featuring jagged peaks of black ink surrounded by hazy swirls of blue and green paint, Zhang Daqian’s 1983 painting Panorama of Mount Lu is inspired by the tradition of qinglü shanshui, a type of Chinese landscape painting ______ by the use of blue and green hues to depict ethereal, otherworldly landscapes.",
+    "passage": "Featuring jagged peaks of black ink surrounded by hazy swirls of blue and green paint, Zhang Daqian’s 1983 painting <i>Panorama of Mount Lu</i> is inspired by the tradition of <i>qinglü shanshui</i>, a type of Chinese landscape painting ______ by the use of blue and green hues to depict ethereal, otherworldly landscapes.",
     "img": "",
     "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
     "choice1": "has been characterized",
@@ -174,7 +174,7 @@ export const SAT2026PT7RWM1Q = {
     "answer": "C"
   },
   18: {
-    "passage": "In his Naturalis historia, Pliny the Elder praised Hipparchus’s star catalog, a second-century BCE list of roughly 850 different stars’ celestial positions. For centuries, scholars dreamed about locating a copy of this legendary lost ______ fantasy (partially) became reality in 2022, when researchers uncovered traces of the star catalog on a palimpsest, a reused parchment.",
+    "passage": "In his <i>Naturalis historia</i>, Pliny the Elder praised Hipparchus’s star catalog, a second-century BCE list of roughly 850 different stars’ celestial positions. For centuries, scholars dreamed about locating a copy of this legendary lost ______ fantasy (partially) became reality in 2022, when researchers uncovered traces of the star catalog on a palimpsest, a reused parchment.",
     "img": "",
     "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
     "choice1": "work, that",
@@ -224,7 +224,7 @@ export const SAT2026PT7RWM1Q = {
     "answer": "A"
   },
   23: {
-    "passage": "Marcel Duchamp intended his 1917 so-called ready-made sculpture Fountain to challenge then-prevailing conceptions about the nature of art. ______ Duchamp’s Fountain did just that, raising the question of whether displaying any object in an art gallery could be said to transform the object—even, as Duchamp’s sculpture was, a urinal—into a legitimate work of art.",
+    "passage": "Marcel Duchamp intended his 1917 so-called ready-made sculpture <i>Fountain</i> to challenge then-prevailing conceptions about the nature of art. ______ Duchamp’s Fountain did just that, raising the question of whether displaying any object in an art gallery could be said to transform the object—even, as Duchamp’s sculpture was, a urinal—into a legitimate work of art.",
     "img": "",
     "question": "Which choice completes the text with the most logical transition?",
     "choice1": "Similarly,",
@@ -425,7 +425,7 @@ export const SAT2026PT7RWM2Q = {
     "answer": "B"
   },
   29: {
-    "passage": "The creation of Lotte Reiniger’s 1926 animated film The Adventures of Prince Achmed was ______ process. Over the course of three years, Reiniger and her collaborators painstakingly made more than 250,000 individual images of hand-cut paper silhouettes and repeatedly had to invent entirely new methods and tools to create the special effects Reiniger envisioned.",
+    "passage": "The creation of Lotte Reiniger’s 1926 animated film <i>The Adventures of Prince Achmed</i> was ______ process. Over the course of three years, Reiniger and her collaborators painstakingly made more than 250,000 individual images of hand-cut paper silhouettes and repeatedly had to invent entirely new methods and tools to create the special effects Reiniger envisioned.",
     "img": "",
     "question": "Which choice completes the text with the most logical and precise word or phrase?",
     "choice1": "a haphazard",
@@ -455,7 +455,7 @@ export const SAT2026PT7RWM2Q = {
     "answer": "D"
   },
   32: {
-    "passage": "The following text is from H.D.’s 1916 poem “Mid-Day.” In the poem, the speaker is on a path in an outdoor setting. A slight wind shakes the seed-pods— my thoughts are spent as the black seeds. My thoughts tear me, I dread their fever. I am scattered in its whirl. I am scattered like the hot shrivelled seeds.",
+    "passage": "The following text is from H.D.’s 1916 poem “Mid-Day.” In the poem, the speaker is on a path in an outdoor setting.<br><br><u>A slight wind shakes the seed-pods</u>—<br>my thoughts are spent<br>as the black seeds.<br>My thoughts tear me,<br>I dread their fever.<br>I am scattered in its whirl.<br>I am scattered like<br>the hot shrivelled seeds.",
     "img": "",
     "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
     "choice1": "It illustrates a change in the natural environment that the speaker implies is responsible for the growing misgivings described in the text.",
@@ -465,7 +465,7 @@ export const SAT2026PT7RWM2Q = {
     "answer": "C"
   },
   33: {
-    "passage": "The Bayeux Tapestry, from eleventh-century France, depicts 75 scenes over 250 feet of fabric. It was likely produced by workers embroidering in sections and then joining the resulting panels together. It’s plausible that the workshop that produced the tapestry had never produced one so large, and some researchers claim that a close examination of the joins—the places where the panels are stitched together—suggests that the workers developed and refined their joining process over the course of production. For example, the first join the workers completed exhibits a clear misalignment of the borders of the two panels, whereas the later joins are virtually invisible.",
+    "passage": "The Bayeux Tapestry, from eleventh-century France, depicts 75 scenes over 250 feet of fabric. It was likely produced by workers embroidering in sections and then joining the resulting panels together. It’s plausible that the workshop that produced the tapestry had never produced one so large, and some researchers claim that a close examination of the joins—the places where the panels are stitched together—suggests that the workers developed and refined their joining process over the course of production. <u>For example, the first join the workers completed exhibits a clear misalignment of the borders of the two panels, whereas the later joins are virtually invisible.</u>",
     "img": "",
     "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
     "choice1": "It identifies the people and events depicted in the Bayeux Tapestry.",
@@ -475,7 +475,7 @@ export const SAT2026PT7RWM2Q = {
     "answer": "B"
   },
   34: {
-    "passage": "The following text is from Thomas Mann’s 1924 novel The Magic Mountain, translated by John E. Woods in 1995. The story of Hans Castorp that we intend to tell here—not for his sake (for the reader will come to know him as a perfectly ordinary, if engaging young man), but for the sake of the story itself, which seems to us to be very much worth telling (although in Hans Castorp’s favor it should be noted that it is his story, and that not every story happens to everybody)—is a story that took place long ago, and is, so to speak, covered with the patina of history and must necessarily be told with verbs whose tense is that of the deepest past. ©1995 by Alfred A. Knopf, Inc.",
+    "passage": "The following text is from Thomas Mann’s 1924 novel <i>The Magic Mountain</i>, translated by John E. Woods in 1995.<br><br>The story of Hans Castorp that we intend to tell here—not for <i>his</i> sake (for the reader will come to know him as a perfectly ordinary, if engaging young man), but for the sake of the story itself, which seems to us to be very much worth telling (although in Hans Castorp’s favor it should be noted that it is his story, and that not every story happens to everybody)—is a story that took place long ago, and is, so to speak, covered with the patina of history and must necessarily be told with verbs whose tense is that of the deepest past. ©1995 by Alfred A. Knopf, Inc.",
     "img": "",
     "question": "What does the text most strongly suggest about the story of Hans Castorp?",
     "choice1": "Though it is true that stories of even the most uninteresting people are themselves interesting because all people are unique, the reason this story is interesting is nonetheless difficult to understand because of the passage of time.",
@@ -535,13 +535,13 @@ export const SAT2026PT7RWM2Q = {
     "answer": "D"
   },
   40: {
-    "passage": "For its 1974 work Instant Mural, the Chicano art collective Asco taped members Patssi Valdez and Humberto Sandoval to an outdoor wall in East Los Angeles. The work is manifestly a commentary on constraint, but many critics focus on Valdez and the social constraints women faced at the time, which is understandable but leaves the presence of Valdez’s male collaborator Sandoval unexplained. We should instead consider that in 1974, the art establishment’s recognition of Chicano artists was (and had long been) restricted to sociohistorical muralists, leaving nonmuralist Chicano artists—like Asco’s members—struggling to even exhibit their work; attending to this context opens an interpretation that accounts for all the evidence, allowing us to conclude that ______",
+    "passage": "For its 1974 work <i>Instant Mural</i>, the Chicano art collective Asco taped members Patssi Valdez and Humberto Sandoval to an outdoor wall in East Los Angeles. The work is manifestly a commentary on constraint, but many critics focus on Valdez and the social constraints women faced at the time, which is understandable but leaves the presence of Valdez’s male collaborator Sandoval unexplained. We should instead consider that in 1974, the art establishment’s recognition of Chicano artists was (and had long been) restricted to sociohistorical muralists, leaving nonmuralist Chicano artists—like Asco’s members—struggling to even exhibit their work; attending to this context opens an interpretation that accounts for all the evidence, allowing us to conclude that ______",
     "img": "",
     "question": "Which choice most logically completes the text?",
-    "choice1": "while Valdez’s presence in Instant Mural represents the social constraints placed on women at the time, Sandoval’s presence represents Chicano muralists’ frustration at their lack of recognition by the art establishment.",
-    "choice2": "the main subject of Instant Mural is female Chicano artists’ experience of being doubly constrained by gender-role expectations and the marginalization of certain types of art.",
-    "choice3": "Instant Mural is a reflection on the constraining aesthetic expectations placed on Chicano artists in general rather than on the social constraints placed on women specifically.",
-    "choice4": "Instant Mural is best understood not as a critique of the social constraints placed on women but rather as a critique of sociohistorical muralists’ depictions of Chicano culture.",
+    "choice1": "while Valdez’s presence in <i>Instant Mural</i> represents the social constraints placed on women at the time, Sandoval’s presence represents Chicano muralists’ frustration at their lack of recognition by the art establishment.",
+    "choice2": "the main subject of <i>Instant Mural</i> is female Chicano artists’ experience of being doubly constrained by gender-role expectations and the marginalization of certain types of art.",
+    "choice3": "<i>Instant Mural</i> is a reflection on the constraining aesthetic expectations placed on Chicano artists in general rather than on the social constraints placed on women specifically.",
+    "choice4": "<i>Instant Mural</i> is best understood not as a critique of the social constraints placed on women but rather as a critique of sociohistorical muralists’ depictions of Chicano culture.",
     "answer": "C"
   },
   41: {
@@ -585,7 +585,7 @@ export const SAT2026PT7RWM2Q = {
     "answer": "C"
   },
   45: {
-    "passage": "Recently unearthed Neronian tools in France dating to 54,000 years ago and attributed to Homo sapiens may provide evidence that interactions between Neanderthals and modern humans occurred 10,000 years earlier than was previously ______ finding that, if true, would overturn current theories about H. sapiens migration during the Upper Paleolithic.",
+    "passage": "Recently unearthed Neronian tools in France dating to 54,000 years ago and attributed to <i>Homo sapiens</i> may provide evidence that interactions between Neanderthals and modern humans occurred 10,000 years earlier than was previously ______ finding that, if true, would overturn current theories about <i>H. sapiens</i> migration during the Upper Paleolithic.",
     "img": "",
     "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
     "choice1": "supposed; a",
@@ -655,12 +655,12 @@ export const SAT2026PT7RWM2Q = {
     "answer": "D"
   },
   52: {
-    "passage": "While researching a topic, a student has taken the following notes: Chiura Obata was a Japanese American artist who lived in California. Yosemite Falls is a notable painting by Obata. It uses a Japanese method of black ink painting called sumi-e. This painting was completed in 1930.",
+    "passage": "While researching a topic, a student has taken the following notes: Chiura Obata was a Japanese American artist who lived in California. <i>Yosemite Falls</i> is a notable painting by Obata. It uses a Japanese method of black ink painting called sumi-e. This painting was completed in 1930.",
     "img": "",
-    "question": "The student wants to indicate the year Yosemite Falls was completed. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "question": "The student wants to indicate the year <i>Yosemite Falls</i> was completed. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
     "choice1": "While living in California, Obata created black ink paintings.",
     "choice2": "Obata, a Japanese American artist, created a notable painting.",
-    "choice3": "Yosemite Falls was completed in 1930.",
+    "choice3": "<i>Yosemite Falls</i> was completed in 1930.",
     "choice4": "Obata used a Japanese painting method called sumi-e.",
     "answer": "C"
   },
@@ -913,7 +913,7 @@ export const SAT2026PT7MM1Q = {
   },
   65: {
     "img": "",
-    "question": "What is an x-coordinate of an x-intercept of the graph of \\(y = 3(x - 14)(x + 5)(x + 4)\\) in the xy-plane?",
+    "question": "What is an x-coordinate of an x-intercept of the graph of \\(y = 3(x - 14)(x + 5)(x + 4)\\) in the <i>xy</i>-plane?",
     "answer": "14"
   },
   66: {
@@ -923,7 +923,7 @@ export const SAT2026PT7MM1Q = {
   },
   67: {
     "img": "",
-    "question": "A circle in the xy-plane has the equation \\((x - 13)^{2} + (y - k)^{2} = 64\\). Which of the following gives the center of the circle and its radius?",
+    "question": "A circle in the <i>xy</i>-plane has the equation \\((x - 13)^{2} + (y - k)^{2} = 64\\). Which of the following gives the center of the circle and its radius?",
     "choice1": "The center is at \\((13,k)\\) and the radius is \\(8\\).",
     "choice2": "The center is at \\((k,13)\\) and the radius is \\(8\\).",
     "choice3": "The center is at \\((k,13)\\) and the radius is \\(64\\).",
@@ -1122,7 +1122,7 @@ export const SAT2026PT7MM2Q = {
   },
   78: {
     "img": "sat7-images/sat7-78.svg",
-    "question": "In the given scatterplot, a line of best fit for the data is shown. Which of the following is closest to the slope of the line of best fit shown?",
+    "question": "In the given scatterplot, a line of best fit for the data is shown.<br><br>Which of the following is closest to the slope of the line of best fit shown?",
     "choice1": "\\(0\\)",
     "choice2": "\\(\\frac{1}{2}\\)",
     "choice3": "\\(1\\)",
@@ -1186,7 +1186,7 @@ export const SAT2026PT7MM2Q = {
   },
   86: {
     "img": "",
-    "question": "In the xy-plane, line \\(s\\) passes through the point \\((0,0)\\) and is parallel to the line represented by the equation \\(y = 18x + 2\\). If line \\(s\\) also passes through the point \\((4,d)\\), what is the value of \\(d\\)?",
+    "question": "In the <i>xy</i>-plane, line \\(s\\) passes through the point \\((0,0)\\) and is parallel to the line represented by the equation \\(y = 18x + 2\\). If line \\(s\\) also passes through the point \\((4,d)\\), what is the value of \\(d\\)?",
     "choice1": "\\(2\\)",
     "choice2": "\\(18\\)",
     "choice3": "\\(72\\)",
@@ -1264,7 +1264,7 @@ export const SAT2026PT7MM2Q = {
   },
   96: {
     "img": "",
-    "question": "\\(7x + 6y = 5\\) \\(28x + 24y = 20\\) For each real number \\(r\\), which of the following points lies on the graph of each equation in the xy-plane for the given system?",
+    "question": "\\(7x + 6y = 5\\) \\(28x + 24y = 20\\) For each real number \\(r\\), which of the following points lies on the graph of each equation in the <i>xy</i>-plane for the given system?",
     "choice1": "\\((r, - \\frac{6r}{7} + \\frac{5}{7})\\)",
     "choice2": "\\((r,\\frac{7r}{6} + \\frac{5}{6})\\)",
     "choice3": "\\((\\frac{r}{4} + 5, - \\frac{r}{4} + 20)\\)",

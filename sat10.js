@@ -24,7 +24,7 @@ export const SAT2026PT10RWM1Q = {
     answer: "C"
   },
   3: {
-    passage: "Beginning in the 1950s, Navajo Nation legislator Annie Dodge Wauneka continuously worked to promote public health; this ______ effort involved traveling throughout the vast Navajo homeland and writing a medical dictionary for speakers of Diné bizaad, the Navajo language.",
+    passage: "Beginning in the 1950s, Navajo Nation legislator Annie Dodge Wauneka continuously worked to promote public health; this ______ effort involved traveling throughout the vast Navajo homeland and writing a medical dictionary for speakers of <i>Diné bizaad</i>, the Navajo language.",
     img: "",
     question: "Which choice completes the text with the most logical and precise word or phrase?",
     choice1: "impartial",
@@ -64,7 +64,7 @@ export const SAT2026PT10RWM1Q = {
     answer: "B"
   },
   7: {
-    passage: "The following text is adapted from Jane Austen’s 1814 novel Mansfield Park. The speaker, Tom, is considering staging a play at home with a group of his friends and family. We mean nothing but a little amusement among ourselves, just to vary the scene, and exercise our powers in something new. We want no audience, no publicity. We may be trusted, I think, in choosing some play most perfectly unexceptionable; and I can conceive no greater harm or danger to any of us in conversing in the elegant written language of some respectable author than in chattering in words of our own.",
+    passage: "The following text is adapted from Jane Austen’s 1814 novel <i>Mansfield Park</i>. The speaker, Tom, is considering staging a play at home with a group of his friends and family.<br><br>We mean nothing but a little amusement among ourselves, just to vary the scene, and exercise our powers in something new. We want no audience, no publicity. We may be trusted, I think, in choosing some play most perfectly unexceptionable; and I can conceive no greater harm or danger to any of us in conversing in the elegant written language of some respectable author than in chattering in words of our own.",
     img: "",
     question: "Which choice best states the main purpose of the text?",
     choice1: "To offer Tom’s assurance that the play will be inoffensive and involve only a small number of people",
@@ -74,7 +74,7 @@ export const SAT2026PT10RWM1Q = {
     answer: "A"
   },
   8: {
-    passage: "Text 1 French Impressionist artist Edgar Degas insisted that his paintings be kept in their original frames after they were sold. Like many Impressionist painters, Degas used painted frames that stood in contrast to the gold frames frequently seen at the Paris Salon, a prestigious art exhibition that was sponsored by the French government and promoted traditional painting styles. Impressionist painters likely chose these colorful frames to distinguish themselves from what was considered conventional at the time. Text 2 Impressionist painters often focused on the interplay of color and light in their works. As such, those Impressionists who placed their works in painted frames instead of the more traditional gold ones did so for aesthetic reasons: a frame’s color was likely chosen because it would harmonize with the colors or subjects in a painting. Gold, conversely, could distract from the subtleties in a painted scene.",
+    passage: "Text 1<br><br>French Impressionist artist Edgar Degas insisted that his paintings be kept in their original frames after they were sold. Like many Impressionist painters, Degas used painted frames that stood in contrast to the gold frames frequently seen at the Paris Salon, a prestigious art exhibition that was sponsored by the French government and promoted traditional painting styles. Impressionist painters likely chose these colorful frames to distinguish themselves from what was considered conventional at the time.<br><br>Text 2<br><br>Impressionist painters often focused on the interplay of color and light in their works. As such, those Impressionists who placed their works in painted frames instead of the more traditional gold ones did so for aesthetic reasons: a frame’s color was likely chosen because it would harmonize with the colors or subjects in a painting. Gold, conversely, could distract from the subtleties in a painted scene.",
     img: "",
     question: "Based on the texts, both authors would most likely agree with which statement?",
     choice1: "Gold frames were considered especially desirable by those who purchased works from Impressionist painters.",
@@ -114,9 +114,9 @@ export const SAT2026PT10RWM1Q = {
     answer: "A"
   },
   12: {
-    passage: "The Post Office is a 1912 play by Rabindranath Tagore, originally written in Bengali. The character Amal is a young boy who imagines that the people he sees passing the window of his home are carefree even when engaged in work or chores, as is evident when he says to the daughter of a flower seller, ______",
+    passage: "<i>The Post Office</i> is a 1912 play by Rabindranath Tagore, originally written in Bengali. The character Amal is a young boy who imagines that the people he sees passing the window of his home are carefree even when engaged in work or chores, as is evident when he says to the daughter of a flower seller, ______",
     img: "",
-    question: "Which quotation from The Post Office most effectively illustrates the claim?",
+    question: "Which quotation from <i>The Post Office</i> most effectively illustrates the claim?",
     choice1: "“I see, you don’t wish to stop; I don’t care to stay on here either.”",
     choice2: "“Oh, flower gathering? That is why your feet seem so glad and your anklets jingle so merrily as you walk.”",
     choice3: "“I’ll pay when I grow up—before I leave to look for work out on the other side of that stream there.”",
@@ -144,13 +144,13 @@ export const SAT2026PT10RWM1Q = {
     answer: "A"
   },
   15: {
-    passage: "Euphorbia esula (leafy spurge) is a Eurasian plant that has become invasive in North America, where it displaces native vegetation and sickens cattle. E. esula can be controlled with chemical herbicides, but that approach can also kill harmless plants nearby. Recent research on introducing engineered DNA into plant species to inhibit their reproduction may offer a path toward exclusively targeting E. esula, consequently ______",
+    passage: "<i>Euphorbia esula</i> (leafy spurge) is a Eurasian plant that has become invasive in North America, where it displaces native vegetation and sickens cattle. <i>E. esula</i> can be controlled with chemical herbicides, but that approach can also kill harmless plants nearby. Recent research on introducing engineered DNA into plant species to inhibit their reproduction may offer a path toward exclusively targeting E. esula, consequently ______",
     img: "",
     question: "Which choice most logically completes the text?",
-    choice1: "making individual E. esula plants more susceptible to existing chemical herbicides.",
-    choice2: "enhancing the ecological benefits of E. esula in North America.",
-    choice3: "enabling cattle to consume E. esula without becoming sick.",
-    choice4: "reducing invasive E. esula numbers without harming other organisms.",
+    choice1: "making individual <i>E. esula</i> plants more susceptible to existing chemical herbicides.",
+    choice2: "enhancing the ecological benefits of <i>E. esula</i> in North America.",
+    choice3: "enabling cattle to consume <i>E. esula</i> without becoming sick.",
+    choice4: "reducing invasive <i>E. esula</i> numbers without harming other organisms.",
     answer: "D"
   },
   16: {
@@ -194,7 +194,7 @@ export const SAT2026PT10RWM1Q = {
     answer: "C"
   },
   20: {
-    passage: "Paintings by the renowned twentieth-century US ______ were featured in Artist to Artist, an exhibition at the Smithsonian Art Museum that paired the works of artists whose career trajectories intersected in meaningful ways.",
+    passage: "Paintings by the renowned twentieth-century US ______ were featured in <i>Artist to Artist</i>, an exhibition at the Smithsonian Art Museum that paired the works of artists whose career trajectories intersected in meaningful ways.",
     img: "",
     question: "Which choice completes the text so that it conforms to the conventions of Standard English?",
     choice1: "artists: Thomas Hart Benton and Jackson Pollock,",
@@ -224,7 +224,7 @@ export const SAT2026PT10RWM1Q = {
     answer: "D"
   },
   23: {
-    passage: "In his 1925 book The Morphology of Landscape, US geographer Carl Sauer challenged prevailing views about how natural landscapes influence human cultures. ______ Sauer argued that instead of being shaped entirely by their natural surroundings, cultures play an active role in their own development by virtue of their interactions with the environment.",
+    passage: "In his 1925 book <i>The Morphology of Landscape</i>, US geographer Carl Sauer challenged prevailing views about how natural landscapes influence human cultures. ______ Sauer argued that instead of being shaped entirely by their natural surroundings, cultures play an active role in their own development by virtue of their interactions with the environment.",
     img: "",
     question: "Which choice completes the text with the most logical transition?",
     choice1: "Similarly,",
@@ -455,7 +455,7 @@ export const SAT2026PT10RWM2Q = {
     answer: "A"
   },
   32: {
-    passage: "The following text is adapted from Aphra Behn’s 1689 novel The Lucky Mistake. Atlante and Rinaldo are neighbors who have been secretly exchanging letters through Charlot, Atlante’s sister. [Atlante] gave this letter to Charlot; who immediately ran into the balcony with it, where she still found Rinaldo in a melancholy posture, leaning his head on his hand: She showed him the letter, but was afraid to toss it to him, for fear it might fall to the ground; so he ran and fetched a long cane, which he cleft at one end, and held it while she put the letter into the cleft, and stayed not to hear what he said to it. But never was man so transported with joy, as he was at the reading of this letter; it gives him new wounds; for to the generous, nothing obliges love so much as love.",
+    passage: "The following text is adapted from Aphra Behn’s 1689 novel <i>The Lucky Mistake</i>. Atlante and Rinaldo are neighbors who have been secretly exchanging letters through Charlot, Atlante’s sister.<br><br>[Atlante] gave this letter to Charlot; who immediately ran into the balcony with it, where she still found Rinaldo in a melancholy posture, leaning his head on his hand: She showed him the letter, but was afraid to toss it to him, for fear it might fall to the ground; so he ran and fetched a long cane, which he cleft at one end, and held it while she put the letter into the cleft, and stayed not to hear what he said to it. But never was man so transported with joy, as he was at the reading of this letter; it gives him new wounds; for to the generous, nothing obliges love so much as love.",
     img: "",
     question: "Which choice best describes the overall structure of the text?",
     choice1: "It describes the delivery of a letter, and then portrays a character’s happiness at reading that letter.",
@@ -465,7 +465,7 @@ export const SAT2026PT10RWM2Q = {
     answer: "A"
   },
   33: {
-    passage: "The following text is from Edith Wharton’s 1905 novel The House of Mirth. Lily Bart and a companion are walking through a park. Lily had no real intimacy with nature, but she had a passion for the appropriate and could be keenly sensitive to a scene which was the fitting background of her own sensations. The landscape outspread below her seemed an enlargement of her present mood, and she found something of herself in its calmness, its breadth, its long free reaches. On the nearer slopes the sugar-maples wavered like pyres of light; lower down was a massing of grey orchards, and here and there the lingering green of an oak-grove.",
+    passage: "The following text is from Edith Wharton’s 1905 novel <i>The House of Mirth</i>. Lily Bart and a companion are walking through a park.<br><br>Lily had no real intimacy with nature, but she had a passion for the appropriate and could be keenly sensitive to a scene which was the fitting background of her own sensations. <u>The landscape outspread below her seemed an enlargement of her present mood, and she found something of herself in its calmness, its breadth, its long free reaches.</u> On the nearer slopes the sugar-maples wavered like pyres of light; lower down was a massing of grey orchards, and here and there the lingering green of an oak-grove.",
     img: "",
     question: "Which choice best describes the function of the underlined sentence in the text as a whole?",
     choice1: "It creates a detailed image of the physical setting of the scene.",
@@ -475,7 +475,7 @@ export const SAT2026PT10RWM2Q = {
     answer: "D"
   },
   34: {
-    passage: "Several studies have found negligible electoral consequences for governments that impose fiscal austerity measures, yet some European governments recently suffered electorally due to their austerity programs. Evelyne Huebscher and colleagues attribute this incongruity to governments’ tendency—not followed in the recent European cases—to implement austerity programs strategically to avoid electoral costs (e.g., setting spending cuts to take effect only after the next election), which has obscured the inherent political risks of austerity measures in the election data scholars have examined.",
+    passage: "<u>Several studies have found negligible electoral consequences for governments that impose fiscal austerity measures, yet some European governments recently suffered electorally due to their austerity programs.</u> Evelyne Huebscher and colleagues attribute this incongruity to governments’ tendency—not followed in the recent European cases—to implement austerity programs strategically to avoid electoral costs (e.g., setting spending cuts to take effect only after the next election), which has obscured the inherent political risks of austerity measures in the election data scholars have examined.",
     img: "",
     question: "Which choice best describes the function of the underlined sentence in the text as a whole?",
     choice1: "It explains a discrepancy between what has been observed in study settings and what has been observed in real-world settings that the text goes on to assert is attributable to the studies not using real-world data.",
@@ -515,17 +515,17 @@ export const SAT2026PT10RWM2Q = {
     answer: "C"
   },
   38: {
-    passage: "In the mountains of Brazil, Barbacenia tomentosa and Barbacenia macrantha—two plants in the Velloziaceae family—establish themselves on soilless, nutrient-poor patches of quartzite rock. Plant ecologists Anna Abrahão and Patricia de Britto Costa used microscopic analysis to determine that the roots of B. tomentosa and B. macrantha, which grow directly into the quartzite, have clusters of fine hairs near the root tip; further analysis indicated that these hairs secrete both malic and citric acids. The researchers hypothesize that the plants depend on dissolving underlying rock with these acids, as the process not only creates channels for continued growth but also releases phosphates that provide the vital nutrient phosphorus.",
+    passage: "In the mountains of Brazil, <i>Barbacenia tomentosa</i> and <i>Barbacenia macrantha</i>—two plants in the Velloziaceae family—establish themselves on soilless, nutrient-poor patches of quartzite rock. Plant ecologists Anna Abrahão and Patricia de Britto Costa used microscopic analysis to determine that the roots of <i>B. tomentosa</i> and <i>B. macrantha</i>, which grow directly into the quartzite, have clusters of fine hairs near the root tip; further analysis indicated that these hairs secrete both malic and citric acids. The researchers hypothesize that the plants depend on dissolving underlying rock with these acids, as the process not only creates channels for continued growth but also releases phosphates that provide the vital nutrient phosphorus.",
     img: "",
     question: "Which finding, if true, would most directly support the researchers’ hypothesis?",
-    choice1: "Other species in the Velloziaceae family are found in terrains with more soil but have root structures similar to those of B. tomentosa and B. macrantha.",
-    choice2: "Though B. tomentosa and B. macrantha both secrete citric and malic acids, each species produces the acids in different proportions.",
-    choice3: "The roots of B. tomentosa and B. macrantha carve new entry points into rocks even when cracks in the surface are readily available.",
-    choice4: "B. tomentosa and B. macrantha thrive even when transferred to the surfaces of rocks that do not contain phosphates.",
+    choice1: "Other species in the Velloziaceae family are found in terrains with more soil but have root structures similar to those of <i>B. tomentosa</i> and <i>B. macrantha</i>.",
+    choice2: "Though <i>B. tomentosa</i> and <i>B. macrantha</i> both secrete citric and malic acids, each species produces the acids in different proportions.",
+    choice3: "The roots of <i>B. tomentosa</i> and <i>B. macrantha</i> carve new entry points into rocks even when cracks in the surface are readily available.",
+    choice4: "<i>B. tomentosa</i> and <i>B. macrantha</i> thrive even when transferred to the surfaces of rocks that do not contain phosphates.",
     answer: "C"
   },
   39: {
-    passage: "Rows in table may not add up to 100 due to rounding. Over the past two hundred years, the percentage of the population employed in the agricultural sector has declined in both France and the United States, while employment in the service sector (which includes jobs in retail, consulting, real estate, etc.) has risen. However, this transition happened at very different rates in the two countries. This can be seen most clearly by comparing the employment by sector in both countries in ______",
+    passage: "Rows in table may not add up to 100 due to rounding.<br><br>Over the past two hundred years, the percentage of the population employed in the agricultural sector has declined in both France and the United States, while employment in the service sector (which includes jobs in retail, consulting, real estate, etc.) has risen. However, this transition happened at very different rates in the two countries. This can be seen most clearly by comparing the employment by sector in both countries in ______",
     img: "sat10-images/sat10-39.svg",
     question: "Which choice most effectively uses data from the table to complete the statement?",
     choice1: "1900 with the employment by sector in 1950.",
@@ -535,17 +535,17 @@ export const SAT2026PT10RWM2Q = {
     answer: "A"
   },
   40: {
-    passage: "A team of biologists led by Jae-Hoon Jung, Antonio D. Barbosa, and Stephanie Hutin investigated the mechanism that allows Arabidopsis thaliana (thale cress) plants to accelerate flowering at high temperatures. They replaced the protein ELF3 in the plants with a similar protein found in another species (stiff brome) that, unlike A. thaliana, displays no acceleration in flowering with increased temperature. A comparison of unmodified A. thaliana plants with the altered plants showed no difference in flowering at 22° Celsius, but at 27° Celsius, the unmodified plants exhibited accelerated flowering while the altered ones did not, which suggests that ______",
+    passage: "A team of biologists led by Jae-Hoon Jung, Antonio D. Barbosa, and Stephanie Hutin investigated the mechanism that allows <i>Arabidopsis thaliana</i> (thale cress) plants to accelerate flowering at high temperatures. They replaced the protein ELF3 in the plants with a similar protein found in another species (stiff brome) that, unlike <i>A. thaliana</i>, displays no acceleration in flowering with increased temperature. A comparison of unmodified A. thaliana plants with the altered plants showed no difference in flowering at 22° Celsius, but at 27° Celsius, the unmodified plants exhibited accelerated flowering while the altered ones did not, which suggests that ______",
     img: "",
     question: "Which choice most logically completes the text?",
-    choice1: "temperature-sensitive accelerated flowering is unique to A. thaliana.",
-    choice2: "A. thaliana increases ELF3 production as temperatures rise.",
-    choice3: "ELF3 enables A. thaliana to respond to increased temperatures.",
-    choice4: "temperatures of at least 22° Celsius are required for A. thaliana to flower.",
+    choice1: "temperature-sensitive accelerated flowering is unique to <i>A. thaliana</i>.",
+    choice2: "<i>A. thaliana</i> increases ELF3 production as temperatures rise.",
+    choice3: "ELF3 enables <i>A. thaliana</i> to respond to increased temperatures.",
+    choice4: "temperatures of at least 22° Celsius are required for <i>A. thaliana</i> to flower.",
     answer: "C"
   },
   41: {
-    passage: "The domestic sweet potato (Ipomoea batatas) descends from a wild plant native to South America. It also populates the Polynesian Islands, where evidence confirms that Native Hawaiians and other Indigenous peoples were cultivating the plant centuries before seafaring first occurred over the thousands of miles of ocean separating them from South America. To explain how the sweet potato was first introduced in Polynesia, botanist Pablo Muñoz-Rodríguez and colleagues analyzed the DNA of numerous varieties of the plant, concluding that Polynesian varieties diverged from South American ones over 100,000 years ago. Given that Polynesia was peopled only in the last three thousand years, the team concluded that ______",
+    passage: "The domestic sweet potato (<i>Ipomoea batatas</i>) descends from a wild plant native to South America. It also populates the Polynesian Islands, where evidence confirms that Native Hawaiians and other Indigenous peoples were cultivating the plant centuries before seafaring first occurred over the thousands of miles of ocean separating them from South America. To explain how the sweet potato was first introduced in Polynesia, botanist Pablo Muñoz-Rodríguez and colleagues analyzed the DNA of numerous varieties of the plant, concluding that Polynesian varieties diverged from South American ones over 100,000 years ago. Given that Polynesia was peopled only in the last three thousand years, the team concluded that ______",
     img: "",
     question: "Which choice most logically completes the text?",
     choice1: "the cultivation of the sweet potato in Polynesia likely predates its cultivation in South America.",
@@ -605,7 +605,7 @@ export const SAT2026PT10RWM2Q = {
     answer: "C"
   },
   47: {
-    passage: "The ghazal, a poetic form originating in seventh-century Arabic poetry, has an intricate structure. The twentieth-century Kashmiri American poet Agha Shahid Ali explains that each one of a ghazal’s couplets, while adhering to the patterns of rhyme (qafia) and refrain (radif) established in the poem’s opening lines (matla), ______ thematically and logically autonomous, resulting in a poem with “a stringently formal disunity.”",
+    passage: "The ghazal, a poetic form originating in seventh-century Arabic poetry, has an intricate structure. The twentieth-century Kashmiri American poet Agha Shahid Ali explains that each one of a ghazal’s couplets, while adhering to the patterns of rhyme (<i>qafia</i>) and refrain (<i>radif</i>) established in the poem’s opening lines (<i>matla</i>), ______ thematically and logically autonomous, resulting in a poem with “a stringently formal disunity.”",
     img: "",
     question: "Which choice completes the text so that it conforms to the conventions of Standard English?",
     choice1: "is",
@@ -645,13 +645,13 @@ export const SAT2026PT10RWM2Q = {
     answer: "C"
   },
   51: {
-    passage: "While researching a topic, a student has taken the following notes: Puntius javanicus is a species of commercially raised fish. Researchers in Indonesia recently found that adding pineapple extract to fish food increased both the feed utilization efficiency and the growth rate of P. javanicus. Adding the pineapple extract did not affect total food consumption. The researchers thus determined that the increased growth rate resulted from the increased feed utilization efficiency. The enzyme bromelain in pineapple extract enhances the hydrolysis of ingested proteins. This allows the fish to more readily absorb them.",
+    passage: "While researching a topic, a student has taken the following notes: <i>Puntius javanicus</i> is a species of commercially raised fish. Researchers in Indonesia recently found that adding pineapple extract to fish food increased both the feed utilization efficiency and the growth rate of <i>P. javanicus</i>. Adding the pineapple extract did not affect total food consumption. The researchers thus determined that the increased growth rate resulted from the increased feed utilization efficiency. The enzyme bromelain in pineapple extract enhances the hydrolysis of ingested proteins. This allows the fish to more readily absorb them.",
     img: "",
-    question: "The student wants to explain how pineapple extract increased the growth rate of P. javanicus. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
-    choice1: "Researchers in Indonesia recently found that adding pineapple extract to fish food increased the growth rate of P. javanicus.",
-    choice2: "An enzyme in pineapple extract, bromelain increased the growth rate of P. javanicus by enhancing the hydrolysis of ingested proteins, in turn affecting the fish’s total food consumption.",
-    choice3: "According to the researchers, the growth rate of P. javanicus was affected not by food consumption but by feed utilization efficiency.",
-    choice4: "The enzyme bromelain enhanced P. javanicus’s absorption of ingested proteins, increasing the growth rate of fish fed pineapple extract.",
+    question: "The student wants to explain how pineapple extract increased the growth rate of <i>P. javanicus</i>. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    choice1: "Researchers in Indonesia recently found that adding pineapple extract to fish food increased the growth rate of <i>P. javanicus</i>.",
+    choice2: "An enzyme in pineapple extract, bromelain increased the growth rate of <i>P. javanicus</i> by enhancing the hydrolysis of ingested proteins, in turn affecting the fish’s total food consumption.",
+    choice3: "According to the researchers, the growth rate of <i>P. javanicus</i> was affected not by food consumption but by feed utilization efficiency.",
+    choice4: "The enzyme bromelain enhanced <i>P. javanicus</i>’s absorption of ingested proteins, increasing the growth rate of fish fed pineapple extract.",
     answer: "D"
   },
   52: {
@@ -951,7 +951,7 @@ export const SAT2026PT10MM1Q = {
   },
   71: {
     img: "",
-    question: "The function \\(f\\) is defined by \\(f(x) = ( - 8)(2)^{x} + 22\\). What is the y-intercept of the graph of \\(y = f(x)\\) in the xy-plane?",
+    question: "The function \\(f\\) is defined by \\(f(x) = ( - 8)(2)^{x} + 22\\). What is the y-intercept of the graph of \\(y = f(x)\\) in the <i>xy</i>-plane?",
     choice1: "\\((0, 14)\\)",
     choice2: "\\((0, 2)\\)",
     choice3: "\\((0, 22)\\)",
@@ -1130,7 +1130,7 @@ export const SAT2026PT10MM2Q = {
   },
   78: {
     img: "",
-    question: "Line \\(k\\) is defined by \\(y = \\frac{17}{7}x + 4\\). Line \\(j\\) is parallel to line \\(k\\) in the xy-plane. What is the slope of line \\(j\\)?",
+    question: "Line \\(k\\) is defined by \\(y = \\frac{17}{7}x + 4\\). Line \\(j\\) is parallel to line \\(k\\) in the <i>xy</i>-plane. What is the slope of line \\(j\\)?",
     choice1: "\\(\\frac{7}{17}\\)",
     choice2: "\\(\\frac{17}{7}\\)",
     choice3: "\\(4\\)",
@@ -1139,7 +1139,7 @@ export const SAT2026PT10MM2Q = {
   },
   79: {
     img: "",
-    question: "Caleb used juice to make popsicles. The function \\(f\\left(x\\right) = - 5x + 30\\) approximates the volume, in fluid ounces, of juice Caleb had remaining after making \\(x\\) popsicles. Which statement is the best interpretation of the y-intercept of the graph of \\(y = f\\left(x\\right)\\) in the xy-plane in this context?",
+    question: "Caleb used juice to make popsicles. The function \\(f\\left(x\\right) = - 5x + 30\\) approximates the volume, in fluid ounces, of juice Caleb had remaining after making \\(x\\) popsicles. Which statement is the best interpretation of the y-intercept of the graph of \\(y = f\\left(x\\right)\\) in the <i>xy</i>-plane in this context?",
     choice1: "Caleb used approximately \\(5\\) fluid ounces of juice for each popsicle.",
     choice2: "Caleb had approximately \\(5\\) fluid ounces of juice when he began to make the popsicles.",
     choice3: "Caleb had approximately \\(30\\) fluid ounces of juice when he began to make the popsicles.",
@@ -1148,7 +1148,7 @@ export const SAT2026PT10MM2Q = {
   },
   80: {
     img: "",
-    question: "A physics class is planning an experiment about a toy rocket. The equation \\(y = - 16\\left(x - 5.6\\right)^{2} + 502\\) gives the estimated height \\(y\\), in feet, of the toy rocket \\(x\\) seconds after it is launched into the air. Which of the following is the best interpretation of the vertex of the graph of the equation in the xy-plane?",
+    question: "A physics class is planning an experiment about a toy rocket. The equation \\(y = - 16\\left(x - 5.6\\right)^{2} + 502\\) gives the estimated height \\(y\\), in feet, of the toy rocket \\(x\\) seconds after it is launched into the air. Which of the following is the best interpretation of the vertex of the graph of the equation in the <i>xy</i>-plane?",
     choice1: "This toy rocket reaches an estimated maximum height of \\(502\\) feet \\(16\\) seconds after it is launched into the air.",
     choice2: "This toy rocket reaches an estimated maximum height of \\(502\\) feet \\(5.6\\) seconds after it is launched into the air.",
     choice3: "This toy rocket reaches an estimated maximum height of \\(16\\) feet \\(502\\) seconds after it is launched into the air.",
@@ -1171,7 +1171,7 @@ export const SAT2026PT10MM2Q = {
   },
   83: {
     img: "",
-    question: "\\(y \\le x + 7\\) \\(y \\ge - 2x - 1\\) Which point \\(\\left(x, y\\right)\\) is a solution to the given system of inequalities in the xy-plane?",
+    question: "\\(y \\le x + 7\\) \\(y \\ge - 2x - 1\\) Which point \\(\\left(x, y\\right)\\) is a solution to the given system of inequalities in the <i>xy</i>-plane?",
     choice1: "\\(\\left( - 14, 0\\right)\\)",
     choice2: "\\(\\left(0, - 14\\right)\\)",
     choice3: "\\(\\left(0, 14\\right)\\)",
@@ -1180,7 +1180,7 @@ export const SAT2026PT10MM2Q = {
   },
   84: {
     img: "sat10-images/sat10-84.svg",
-    question: "The dot plots represent the distributions of values in data sets A and B. Which of the following statements must be true? The median of data set A is equal to the median of data set B. The standard deviation of data set A is equal to the standard deviation of data set B.",
+    question: "The dot plots represent the distributions of values in data sets A and B.<br><br>Which of the following statements must be true? The median of data set A is equal to the median of data set B. The standard deviation of data set A is equal to the standard deviation of data set B.",
     choice1: "I only",
     choice2: "II only",
     choice3: "I and II",
@@ -1208,7 +1208,7 @@ export const SAT2026PT10MM2Q = {
   },
   88: {
     img: "",
-    question: "A certain town has an area of \\(4.36\\) square miles. What is the area, in square yards, of this town? \\(\\left(1\\text{mile} = 1,760\\text{yards}\\right)\\)",
+    question: "A certain town has an area of \\(4.36\\) square miles. What is the area, in <u>square yards</u>, of this town? \\(\\left(1\\text{mile} = 1,760\\text{yards}\\right)\\)",
     choice1: "\\(404\\)",
     choice2: "\\(7,674\\)",
     choice3: "\\(710,459\\)",
@@ -1217,7 +1217,7 @@ export const SAT2026PT10MM2Q = {
   },
   89: {
     img: "",
-    question: "Triangles \\(PQR\\) and \\(LMN\\) are graphed in the xy-plane. Triangle \\(PQR\\) has vertices \\(P\\), \\(Q\\), and \\(R\\) at \\(\\left(4, 5\\right)\\), \\(\\left(4, 7\\right)\\), and \\(\\left(6, 5\\right)\\), respectively. Triangle \\(LMN\\) has vertices \\(L\\), \\(M\\), and \\(N\\) at \\(\\left(4, 5\\right)\\), \\(\\left(4, 7 + k\\right)\\), and \\(\\left(6 + k, 5\\right)\\), respectively, where \\(k\\) is a positive constant. If the measure of \\(\\angle Q\\) is \\(t^{\\circ}\\), what is the measure of \\(\\angle N\\)?",
+    question: "Triangles \\(PQR\\) and \\(LMN\\) are graphed in the <i>xy</i>-plane. Triangle \\(PQR\\) has vertices \\(P\\), \\(Q\\), and \\(R\\) at \\(\\left(4, 5\\right)\\), \\(\\left(4, 7\\right)\\), and \\(\\left(6, 5\\right)\\), respectively. Triangle \\(LMN\\) has vertices \\(L\\), \\(M\\), and \\(N\\) at \\(\\left(4, 5\\right)\\), \\(\\left(4, 7 + k\\right)\\), and \\(\\left(6 + k, 5\\right)\\), respectively, where \\(k\\) is a positive constant. If the measure of \\(\\angle Q\\) is \\(t^{\\circ}\\), what is the measure of \\(\\angle N\\)?",
     choice1: "\\(\\left(90 - \\left(t - k\\right)\\right)^{\\circ}\\)",
     choice2: "\\(\\left(90 - \\left(t + k\\right)\\right)^{\\circ}\\)",
     choice3: "\\(\\left(90 - t\\right)^{\\circ}\\)",
@@ -1240,7 +1240,7 @@ export const SAT2026PT10MM2Q = {
   },
   92: {
     img: "",
-    question: "Which of the following equations represents a circle in the xy-plane that intersects the y-axis at exactly one point?",
+    question: "Which of the following equations represents a circle in the <i>xy</i>-plane that intersects the y-axis at exactly one point?",
     choice1: "\\(\\left(x - 8\\right)^{2} + \\left(y - 8\\right)^{2} = 16\\)",
     choice2: "\\(\\left(x - 8\\right)^{2} + \\left(y - 4\\right)^{2} = 16\\)",
     choice3: "\\(\\left(x - 4\\right)^{2} + \\left(y - 9\\right)^{2} = 16\\)",
@@ -1281,7 +1281,7 @@ export const SAT2026PT10MM2Q = {
   },
   97: {
     img: "",
-    question: "\\(2x + 3y = 7\\)\\(10x + 15y = 35\\) For each real number \\(r\\), which of the following points lies on the graph of each equation in the xy-plane for the given system?",
+    question: "\\(2x + 3y = 7\\)\\(10x + 15y = 35\\) For each real number \\(r\\), which of the following points lies on the graph of each equation in the <i>xy</i>-plane for the given system?",
     choice1: "\\(\\left(\\frac{r}{5} + 7, - \\frac{r}{5} + 35\\right)\\)",
     choice2: "\\(\\left( - \\frac{3r}{2} + \\frac{7}{2}, r\\right)\\)",
     choice3: "\\(\\left(r, \\frac{2r}{3} + \\frac{7}{3}\\right)\\)",

@@ -24,7 +24,7 @@ export const SAT2026PT8RWM1Q = {
     answer: "B"
   },
   3: {
-    passage: "The Mule Bone, a 1930 play written by Zora Neale Hurston and Langston Hughes, is perhaps the best-known of the few examples of ______ in literature. Most writers prefer working alone, and given that working together cost Hurston and Hughes their friendship, it is not hard to see why.",
+    passage: "<i>The Mule Bone</i>, a 1930 play written by Zora Neale Hurston and Langston Hughes, is perhaps the best-known of the few examples of ______ in literature. Most writers prefer working alone, and given that working together cost Hurston and Hughes their friendship, it is not hard to see why.",
     img: "",
     question: "Which choice completes the text with the most logical and precise word or phrase?",
     choice1: "characterization",
@@ -64,7 +64,7 @@ export const SAT2026PT8RWM1Q = {
     answer: "C"
   },
   7: {
-    passage: "The following text is from the 1924 poem “Cycle” by D’Arcy McNickle, who was a citizen of the Confederated Salish and Kootenai Tribes. There shall be new roads wending, A new beating of the drum— Men’s eyes shall have fresh seeing, Grey lives reprise their span— But under the new sun’s being, Completing what night began, There’ll be the same backs bending, The same sad feet shall drum— When this night finds its ending And day shall have come.....",
+    passage: "The following text is from the 1924 poem “Cycle” by D’Arcy McNickle, who was a citizen of the Confederated Salish and Kootenai Tribes. There shall be new roads wending,<br>A new beating of the drum—<br>Men’s eyes shall have fresh seeing,<br>Grey lives reprise their span—<br>But under the new sun’s being,<br>Completing what night began,<br>There’ll be the same backs bending,<br>The same sad feet shall drum—<br>When this night finds its ending<br>And day shall have come.....",
     img: "",
     question: "Which choice best states the main purpose of the text?",
     choice1: "To consider how the repetitiveness inherent in human life can be both rewarding and challenging",
@@ -84,17 +84,17 @@ export const SAT2026PT8RWM1Q = {
     answer: "D"
   },
   9: {
-    passage: "Culinary anthropologist Vertamae Smart-Grosvenor may be known for her decades of work in national public television and radio, but her book Vibration Cooking: or, the Travel Notes of a Geechee Girl is likely her most influential project. The 1970 book, whose title refers to Smart-Grosvenor’s roots in the Low Country of South Carolina, was unusual for its time. It combined memoir, recipes, travel writing, and social commentary and challenged notions about conventions of food and cooking. Long admired by many, the book and its author have shaped contemporary approaches to writing about cuisine.",
+    passage: "Culinary anthropologist Vertamae Smart-Grosvenor may be known for her decades of work in national public television and radio, but her book <i>Vibration Cooking: or, the Travel Notes of a Geechee Girl</i> is likely her most influential project. The 1970 book, whose title refers to Smart-Grosvenor’s roots in the Low Country of South Carolina, was unusual for its time. It combined memoir, recipes, travel writing, and social commentary and challenged notions about conventions of food and cooking. Long admired by many, the book and its author have shaped contemporary approaches to writing about cuisine.",
     img: "",
     question: "Which choice best describes the main idea of the text?",
-    choice1: "Smart-Grosvenor’s unconventional book Vibration Cooking: or, the Travel Notes of a Geechee Girl is an important contribution to food writing.",
+    choice1: "Smart-Grosvenor’s unconventional book <i>Vibration Cooking: or, the Travel Notes of a Geechee Girl</i> is an important contribution to food writing.",
     choice2: "Smart-Grosvenor held many different positions over her life, including reporter and food writer.",
-    choice3: "Smart-Grosvenor’s groundbreaking book Vibration Cooking: or, the Travel Notes of a Geechee Girl didn’t receive the praise it deserved when it was first published in 1970.",
+    choice3: "Smart-Grosvenor’s groundbreaking book <i>Vibration Cooking: or, the Travel Notes of a Geechee Girl</i> didn’t receive the praise it deserved when it was first published in 1970.",
     choice4: "Smart-Grosvenor was a talented chef whose work inspired many people to start cooking for themselves.",
     answer: "A"
   },
   10: {
-    passage: "The following text is from William Shakespeare’s play The Tempest, first performed in 1611. Miranda has lived on an island with her father, Prospero, since she was three years old. Prospero has stated that Miranda likely does not remember anything other than her life on the island. MIRANDA: ’Tis far off, And rather like a dream than an assurance That my remembrance warrants. Had I not Four or five women once that tended me? PROSPERO: Thou hadst, and more, Miranda. But how is it That this lives in thy mind? What seest thou else In the dark backward and abysm of time? If thou remember’st ought ere thou camest here, How thou camest here thou mayst.",
+    passage: "The following text is from William Shakespeare’s play <i>The Tempest</i>, first performed in 1611. Miranda has lived on an island with her father, Prospero, since she was three years old. Prospero has stated that Miranda likely does not remember anything other than her life on the island.<br><br>MIRANDA: ’Tis far off,<br>And rather like a dream than an assurance<br>That my remembrance warrants. Had I not<br>Four or five women once that tended me?<br><br>PROSPERO: Thou hadst, and more, Miranda. But how is it<br>That this lives in thy mind? What seest thou else<br>In the dark backward and abysm of time?<br>If thou remember’st ought ere thou camest here,<br>How thou camest here thou mayst.",
     img: "",
     question: "In the text, which point does Prospero most directly make about Miranda and her memories?",
     choice1: "Miranda’s reminiscences about her early childhood have a melancholy quality that betrays her discontented view of her current circumstances.",
@@ -124,13 +124,13 @@ export const SAT2026PT8RWM1Q = {
     answer: "D"
   },
   13: {
-    passage: "The musical Hadestown was produced off-Broadway in New York in 2016. A revised version of the musical premiered on Broadway in 2019, in a larger production. In a review of the Broadway production, theater critic Jesse Green enthusiastically praised the musical’s storytelling. However, Green also explained that he had seen the earlier version of Hadestown in 2016 and had found the storytelling to be very confusing. This suggests that in Green’s view, ______",
+    passage: "The musical <i>Hadestown</i> was produced off-Broadway in New York in 2016. A revised version of the musical premiered on Broadway in 2019, in a larger production. In a review of the Broadway production, theater critic Jesse Green enthusiastically praised the musical’s storytelling. However, Green also explained that he had seen the earlier version of Hadestown in 2016 and had found the storytelling to be very confusing. This suggests that in Green’s view, ______",
     img: "",
     question: "Which choice most logically completes the text?",
-    choice1: "the 2016 version of Hadestown had fewer storytelling problems than the 2019 version did.",
-    choice2: "Hadestown should have had a larger production in 2019 than it actually did.",
-    choice3: "the 2019 version of Hadestown was less enjoyable than the 2016 version.",
-    choice4: "Hadestown improved greatly between 2016 and its premiere on Broadway.",
+    choice1: "the 2016 version of <i>Hadestown</i> had fewer storytelling problems than the 2019 version did.",
+    choice2: "<i>Hadestown</i> should have had a larger production in 2019 than it actually did.",
+    choice3: "the 2019 version of <i>Hadestown</i> was less enjoyable than the 2016 version.",
+    choice4: "<i>Hadestown</i> improved greatly between 2016 and its premiere on Broadway.",
     answer: "D"
   },
   14: {
@@ -144,7 +144,7 @@ export const SAT2026PT8RWM1Q = {
     answer: "B"
   },
   15: {
-    passage: "Birds of many species ingest foods containing carotenoids, pigmented molecules that are converted into feather coloration. Coloration tends to be especially saturated in male birds’ feathers, and because carotenoids also confer health benefits, the deeply saturated colors generally serve to communicate what is known as an honest signal of a bird’s overall fitness to potential mates. However, ornithologist Allison J. Shultz and others have found that males in several species of the tanager genus Ramphocelus use microstructures in their feathers to manipulate light, creating the appearance of deeper saturation without the birds necessarily having to maintain a carotenoid-rich diet. These findings suggest that ______",
+    passage: "Birds of many species ingest foods containing carotenoids, pigmented molecules that are converted into feather coloration. Coloration tends to be especially saturated in male birds’ feathers, and because carotenoids also confer health benefits, the deeply saturated colors generally serve to communicate what is known as an honest signal of a bird’s overall fitness to potential mates. However, ornithologist Allison J. Shultz and others have found that males in several species of the tanager genus <i>Ramphocelus</i> use microstructures in their feathers to manipulate light, creating the appearance of deeper saturation without the birds necessarily having to maintain a carotenoid-rich diet. These findings suggest that ______",
     img: "",
     question: "Which choice most logically completes the text?",
     choice1: "individual male tanagers can engage in honest signaling without relying on carotenoid consumption.",
@@ -164,7 +164,7 @@ export const SAT2026PT8RWM1Q = {
     answer: "B"
   },
   17: {
-    passage: "In 1930, Japanese American artist Chiura Obata depicted the natural beauty of Yosemite National Park in two memorable woodcuts: Evening at Carl Inn and Lake Basin in the High Sierra. In 2019, ______ exhibited alongside 150 of Obata’s other works in a single-artist show at the Smithsonian American Art Museum.",
+    passage: "In 1930, Japanese American artist Chiura Obata depicted the natural beauty of Yosemite National Park in two memorable woodcuts: <i>Evening at Carl Inn</i> and <i>Lake Basin in the High Sierra</i>. In 2019, ______ exhibited alongside 150 of Obata’s other works in a single-artist show at the Smithsonian American Art Museum.",
     img: "",
     question: "Which choice completes the text so that it conforms to the conventions of Standard English?",
     choice1: "it was",
@@ -254,10 +254,10 @@ export const SAT2026PT8RWM1Q = {
     answer: "D"
   },
   26: {
-    passage: "While researching a topic, a student has taken the following notes: Las sergas de Esplandián was a novel popular in sixteenth-century Spain. The novel featured a fictional island inhabited solely by Black women and known as California. That same century, Spanish explorers learned of an “island” off the west coast of Mexico. They called it California after the island in the novel. The “island” was actually the peninsula now known as Baja California (“Lower California”), which lies to the south of the US state of California.",
+    passage: "While researching a topic, a student has taken the following notes: <i>Las sergas de Esplandián</i> was a novel popular in sixteenth-century Spain. The novel featured a fictional island inhabited solely by Black women and known as California. That same century, Spanish explorers learned of an “island” off the west coast of Mexico. They called it California after the island in the novel. The “island” was actually the peninsula now known as Baja California (“Lower California”), which lies to the south of the US state of California.",
     img: "",
     question: "The student wants to emphasize the role a misconception played in the naming of a place. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
-    choice1: "The novel Las sergas de Esplandián featured a fictional island known as California.",
+    choice1: "The novel <i>Las sergas de Esplandián</i> featured a fictional island known as California.",
     choice2: "To the south of the US state of California lies Baja California (“Lower California”), originally called California after a fictional place.",
     choice3: "In the sixteenth century, Spanish explorers learned of a peninsula off the west coast of Mexico and called it California.",
     choice4: "Thinking it was an island, Spanish explorers called a peninsula California after an island in a popular novel.",
@@ -425,7 +425,7 @@ export const SAT2026PT8RWM2Q = {
     answer: "D"
   },
   29: {
-    passage: "For her 2021 art installation Anthem, Wu Tsang joined forces with singer and composer Beverly Glenn-Copeland to produce a piece that critics found truly ______: they praised Tsang for creatively transforming a museum rotunda into a dynamic exhibit by projecting filmed images of Glenn-Copeland onto a massive 84-foot curtain and filling the space with the sounds of his and other voices singing.",
+    passage: "For her 2021 art installation <i>Anthem</i>, Wu Tsang joined forces with singer and composer Beverly Glenn-Copeland to produce a piece that critics found truly ______: they praised Tsang for creatively transforming a museum rotunda into a dynamic exhibit by projecting filmed images of Glenn-Copeland onto a massive 84-foot curtain and filling the space with the sounds of his and other voices singing.",
     img: "",
     question: "Which choice completes the text with the most logical and precise word or phrase?",
     choice1: "restrained",
@@ -435,7 +435,7 @@ export const SAT2026PT8RWM2Q = {
     answer: "B"
   },
   30: {
-    passage: "The author’s claim about the relationship between Neanderthals and Homo sapiens is ______, as it fails to account for several recent archaeological discoveries. To be convincing, his argument would need to address recent finds of additional hominid fossils, such as the latest Denisovan specimens and Homo longi.",
+    passage: "The author’s claim about the relationship between Neanderthals and <i>Homo sapiens</i> is ______, as it fails to account for several recent archaeological discoveries. To be convincing, his argument would need to address recent finds of additional hominid fossils, such as the latest Denisovan specimens and <i>Homo longi</i>.",
     img: "",
     question: "Which choice completes the text with the most logical and precise word or phrase?",
     choice1: "disorienting",
@@ -445,7 +445,7 @@ export const SAT2026PT8RWM2Q = {
     answer: "B"
   },
   31: {
-    passage: "Seminole/Muscogee director Sterlin Harjo ______ television’s tendency to situate Native characters in the distant past: this rejection is evident in his series Reservation Dogs, which revolves around teenagers who dress in contemporary styles and whose dialogue is laced with current slang.",
+    passage: "Seminole/Muscogee director Sterlin Harjo ______ television’s tendency to situate Native characters in the distant past: this rejection is evident in his series <i>Reservation Dogs</i>, which revolves around teenagers who dress in contemporary styles and whose dialogue is laced with current slang.",
     img: "",
     question: "Which choice completes the text with the most logical and precise word or phrase?",
     choice1: "repudiates",
@@ -455,7 +455,7 @@ export const SAT2026PT8RWM2Q = {
     answer: "A"
   },
   32: {
-    passage: "The following text is adapted from Zora Neale Hurston’s 1921 short story “John Redding Goes to Sea.” John is a child who lives in a town in the woods. Perhaps ten-year-old John was puzzling to the folk there in the Florida woods for he was an imaginative child and fond of day-dreams. The St. John River flowed a scarce three hundred feet from his back door. On its banks at this point grow numerous palms, luxuriant magnolias and bay trees. On the bosom of the stream float millions of delicately colored hyacinths. [John Redding] loved to wander down to the water’s edge, and, casting in dry twigs, watch them sail away down stream to Jacksonville, the sea, the wide world and [he] wanted to follow them.",
+    passage: "The following text is adapted from Zora Neale Hurston’s 1921 short story “John Redding Goes to Sea.” John is a child who lives in a town in the woods.<br><br>Perhaps ten-year-old John was puzzling to the folk there in the Florida woods for he was an imaginative child and fond of day-dreams. The St. John River flowed a scarce three hundred feet from his back door. On its banks at this point grow numerous palms, luxuriant magnolias and bay trees. On the bosom of the stream float millions of delicately colored hyacinths. <u>[John Redding] loved to wander down to the water’s edge, and, casting in dry twigs, watch them sail away down stream to Jacksonville, the sea, the wide world and [he] wanted to follow them.</u>",
     img: "",
     question: "Which choice best describes the function of the underlined sentence in the text as a whole?",
     choice1: "It provides an extended description of a location that John likes to visit.",
@@ -465,7 +465,7 @@ export const SAT2026PT8RWM2Q = {
     answer: "D"
   },
   33: {
-    passage: "Text 1 When companies in the same industry propose merging with one another, they often claim that the merger will benefit consumers by increasing efficiency and therefore lowering prices. Economist Ying Fan investigated this notion in the context of the United States newspaper market. She modeled a hypothetical merger of Minneapolis-area newspapers and found that subscription prices would rise following a merger. Text 2 Economists Dario Focarelli and Fabio Panetta have argued that research on the effect of mergers on prices has focused excessively on short-term effects, which tend to be adverse for consumers. Using the case of consumer banking in Italy, they show that over the long term (several years, in their study), the efficiency gains realized by merged companies do result in economic benefits for consumers.",
+    passage: "Text 1<br><br>When companies in the same industry propose merging with one another, they often claim that the merger will benefit consumers by increasing efficiency and therefore lowering prices. Economist Ying Fan investigated this notion in the context of the United States newspaper market. She modeled a hypothetical merger of Minneapolis-area newspapers and found that subscription prices would rise following a merger.<br><br>Text 2<br><br>Economists Dario Focarelli and Fabio Panetta have argued that research on the effect of mergers on prices has focused excessively on short-term effects, which tend to be adverse for consumers. Using the case of consumer banking in Italy, they show that over the long term (several years, in their study), the efficiency gains realized by merged companies do result in economic benefits for consumers.",
     img: "",
     question: "Based on the texts, how would Focarelli and Panetta (Text 2) most likely respond to Fan’s findings (Text 1)?",
     choice1: "They would recommend that Fan compare the near-term effect of a merger on subscription prices in the Minneapolis area with the effect of a merger in another newspaper market.",
@@ -475,7 +475,7 @@ export const SAT2026PT8RWM2Q = {
     answer: "C"
   },
   34: {
-    passage: "The following text is adapted from Lewis Carroll’s 1889 satirical novel Sylvie and Bruno. A crowd has gathered outside a room belonging to the Warden, an official who reports to the Lord Chancellor. One man, who was more excited than the rest, flung his hat high into the air, and shouted (as well as I could make out) “Who roar for the Sub-Warden?” Everybody roared, but whether it was for the Sub-Warden, or not, did not clearly appear: some were shouting “Bread!” and some “Taxes!”, but no one seemed to know what it was they really wanted. All this I saw from the open window of the Warden’s breakfast-saloon, looking across the shoulder of the Lord Chancellor. “What can it all mean?” he kept repeating to himself. “I never heard such shouting before—and at this time of the morning, too! And with such unanimity!”",
+    passage: "The following text is adapted from Lewis Carroll’s 1889 satirical novel <i>Sylvie and Bruno</i>. A crowd has gathered outside a room belonging to the Warden, an official who reports to the Lord Chancellor.<br><br>One man, who was more excited than the rest, flung his hat high into the air, and shouted (as well as I could make out) “Who roar for the Sub-Warden?” Everybody roared, but whether it was for the Sub-Warden, or not, did not clearly appear: some were shouting “Bread!” and some “Taxes!”, but no one seemed to know what it was they really wanted.<br>All this I saw from the open window of the Warden’s breakfast-saloon, looking across the shoulder of the Lord Chancellor.<br>“What can it all mean?” he kept repeating to himself. “I never heard such shouting before—and at this time of the morning, too! And with such unanimity!”",
     img: "",
     question: "Based on the text, how does the Lord Chancellor respond to the crowd?",
     choice1: "He asks about the meaning of the crowd’s shouting, even though he claims to know what the crowd wants.",
@@ -495,7 +495,7 @@ export const SAT2026PT8RWM2Q = {
     answer: "A"
   },
   36: {
-    passage: "The largest tyrannosaurids—the family of carnivorous dinosaurs that includes Tarbosaurus, Albertosaurus, and, most famously, Tyrannosaurus rex—are thought to have had the strongest bites of any land animals in Earth’s history. Determining the bite force of extinct animals can be difficult, however, and paleontologists Paul Barrett and Emily Rayfield have suggested that an estimate of dinosaur bite force may be significantly influenced by the methodology used in generating that estimate.",
+    passage: "The largest tyrannosaurids—the family of carnivorous dinosaurs that includes <i>Tarbosaurus</i>, <i>Albertosaurus</i>, and, most famously, <i>Tyrannosaurus</i> <i>rex</i>—are thought to have had the strongest bites of any land animals in Earth’s history. Determining the bite force of extinct animals can be difficult, however, and paleontologists Paul Barrett and Emily Rayfield have suggested that an estimate of dinosaur bite force may be significantly influenced by the methodology used in generating that estimate.",
     img: "sat8-images/sat8-36.svg",
     question: "Which choice best describes data from the table that support Barrett and Rayfield’s suggestion?",
     choice1: "The study by Meers used body-mass scaling and produced the lowest estimated maximum bite force, while the study by Cost et al. used muscular and skeletal modeling and produced the highest estimated maximum.",
@@ -518,20 +518,20 @@ export const SAT2026PT8RWM2Q = {
     passage: "In the twentieth century, ethnographers made a concerted effort to collect Mexican American folklore, but they did not always agree about that folklore’s origins. Scholars such as Aurelio Espinosa claimed that Mexican American folklore derived largely from the folklore of Spain, which ruled Mexico and what is now the southwestern United States from the sixteenth to early nineteenth centuries. Scholars such as Américo Paredes, by contrast, argued that while some Spanish influence is undeniable, Mexican American folklore is mainly the product of the ongoing interactions of various cultures in Mexico and the United States.",
     img: "",
     question: "Which finding, if true, would most directly support Paredes’s argument?",
-    choice1: "The folklore that the ethnographers collected included several songs written in the form of a décima, a type of poem originating in late sixteenth-century Spain.",
+    choice1: "The folklore that the ethnographers collected included several songs written in the form of a <i>décima</i>, a type of poem originating in late sixteenth-century Spain.",
     choice2: "Much of the folklore that the ethnographers collected had similar elements from region to region.",
     choice3: "Most of the folklore that the ethnographers collected was previously unknown to scholars.",
-    choice4: "Most of the folklore that the ethnographers collected consisted of corridos—ballads about history and social life—of a clearly recent origin.",
+    choice4: "Most of the folklore that the ethnographers collected consisted of <i>corridos</i>—ballads about history and social life—of a clearly recent origin.",
     answer: "D"
   },
   39: {
-    passage: "In a study of the evolution of DptA and DptB—Diptericin genes encoding antimicrobial peptides that combat pathogens and foster beneficial microbes in fruit flies (Drosophila)—researchers assessed Drosophila melanogaster resistance to pathogenic infections by Providencia rettgeri and Acetobacter sicerae, bacteria common in the flies’ environments. Subjects included flies identified by mutations silencing DptA, DptB, or both DptA and DptB (termed types A, B, and AB, respectively). In conjunction with the observation that resistance to P. rettgeri correlates with DptA activity but is not significantly affected by DptB activity, data in the graph of survival rates post–A. sicerae infection suggest that ______",
+    passage: "In a study of the evolution of <i>DptA</i> and <i>DptB</i>—<i>Diptericin</i> genes encoding antimicrobial peptides that combat pathogens and foster beneficial microbes in fruit flies (<i>Drosophila</i>)—researchers assessed <i>Drosophila melanogaster</i> resistance to pathogenic infections by <i>Providencia rettgeri</i> and <i>Acetobacter</i> <i>sicerae</i>, bacteria common in the flies’ environments. Subjects included flies identified by mutations silencing DptA, DptB, or both DptA and DptB (termed types A, B, and AB, respectively). In conjunction with the observation that resistance to <i>P. rettgeri</i> correlates with DptA activity but is not significantly affected by DptB activity, data in the graph of survival rates post–<i>A. sicerae</i> infection suggest that ______",
     img: "sat8-images/sat8-39.svg",
     question: "Which completion of the text is best supported by data in the graph?",
-    choice1: "DptA confers defense against A. sicerae regardless of the presence of DptB.",
-    choice2: "DptB protects against only one bacteria species, whereas DptA protects against multiple species.",
-    choice3: "DptB may have developed as a specific defense against A. sicerae.",
-    choice4: "defense against A. sicerae is strongest when both DptA and DptB are present.",
+    choice1: "<i>DptA</i> confers defense against <i>A. sicerae</i> regardless of the presence of <i>DptB</i>.",
+    choice2: "<i>DptB</i> protects against only one bacteria species, whereas <i>DptA</i> protects against multiple species.",
+    choice3: "<i>DptB</i> may have developed as a specific defense against <i>A. sicerae</i>.",
+    choice4: "defense against <i>A. sicerae</i> is strongest when both <i>DptA</i> and <i>DptB</i> are present.",
     answer: "C"
   },
   40: {
@@ -545,12 +545,12 @@ export const SAT2026PT8RWM2Q = {
     answer: "B"
   },
   41: {
-    passage: "The morphological novelty of echinoderms—marine invertebrates with radial symmetry, usually starlike, around a central point—impedes comparisons with most other animals, in which bilateral symmetry on an anterior-posterior (head to tail) axis through a trunk is typical. Particularly puzzling are sea stars, thought to have evolved a headless layout from a known bilateral origin. Applying genomic knowledge of Saccoglossus kowalevskii acorn worms (close relatives of sea stars, and thus expected to have similar markers for corresponding anatomical regions) to the body patterning genes of Patiria miniata sea stars, Laurent Formery et al. observed activity only in anterior genes across P. miniata’s entire body and some posterior genes limited to the edges, suggesting that ______",
+    passage: "The morphological novelty of echinoderms—marine invertebrates with radial symmetry, usually starlike, around a central point—impedes comparisons with most other animals, in which bilateral symmetry on an anterior-posterior (head to tail) axis through a trunk is typical. Particularly puzzling are sea stars, thought to have evolved a headless layout from a known bilateral origin. Applying genomic knowledge of <i>Saccoglossus kowalevskii</i> acorn worms (close relatives of sea stars, and thus expected to have similar markers for corresponding anatomical regions) to the body patterning genes of <i>Patiria miniata</i> sea stars, Laurent Formery et al. observed activity only in anterior genes across <i>P. miniata</i>’s entire body and some posterior genes limited to the edges, suggesting that ______",
     img: "",
     question: "Which choice most logically completes the text?",
     choice1: "despite the greater prevalence of anterior genes in sea stars’ genetic makeup, posterior genes active at the body’s perimeter are primarily responsible for the starlike layout that distinguishes sea stars’ radial symmetry from that of other echinoderms.",
     choice2: "contrary to the belief that they evolved from early ancestors with the bilateral form typical of many other animals, sea stars instead originated with an atypical body layout that was neither bilaterally nor radially symmetrical.",
-    choice3: "although the two species are closely related, there is only minimal correspondence in the genetic markers for head, tail, and trunk region development in P. miniata sea stars and S. kowalevskii acorn worms.",
+    choice3: "although the two species are closely related, there is only minimal correspondence in the genetic markers for head, tail, and trunk region development in <i>P. miniata</i> sea stars and <i>S. kowalevskii</i> acorn worms.",
     choice4: "rather than undergoing changes resulting in the eventual elimination of a head region in their radial body plan, as previously assumed, sea stars’ morphology evolved to completely lack a trunk and consist primarily of a head region.",
     answer: "D"
   },
@@ -585,7 +585,7 @@ export const SAT2026PT8RWM2Q = {
     answer: "C"
   },
   45: {
-    passage: "Walt Whitman’s Leaves of Grass first appeared in 1855 as a slim collection of twelve poems, but Whitman would revise and expand it substantially over the next four decades. These extensive ______ the addition of hundreds of new poems, the removal of some existing ones, and the insertion of prefatory material, reflected the poet’s evolving literary perspective and experience of the US Civil War.",
+    passage: "Walt Whitman’s <i>Leaves of Grass</i> first appeared in 1855 as a slim collection of twelve poems, but Whitman would revise and expand it substantially over the next four decades. These extensive ______ the addition of hundreds of new poems, the removal of some existing ones, and the insertion of prefatory material, reflected the poet’s evolving literary perspective and experience of the US Civil War.",
     img: "",
     question: "Which choice completes the text so that it conforms to the conventions of Standard English?",
     choice1: "changes, including",
@@ -625,7 +625,7 @@ export const SAT2026PT8RWM2Q = {
     answer: "B"
   },
   49: {
-    passage: "Upon first approaching artist Kurt Wenner’s Dies Irae, a colorful scene painted on the surface of a cobblestone street in Mantua, Italy, one might assume a deep hole filled with life-sized, classically styled sculptures had opened up in the street. ______ by expertly applying the principles of perspective, Wenner created merely the illusion of depth.",
+    passage: "Upon first approaching artist Kurt Wenner’s <i>Dies Irae</i>, a colorful scene painted on the surface of a cobblestone street in Mantua, Italy, one might assume a deep hole filled with life-sized, classically styled sculptures had opened up in the street. ______ by expertly applying the principles of perspective, Wenner created merely the illusion of depth.",
     img: "",
     question: "Which choice completes the text with the most logical transition?",
     choice1: "Additionally,",
@@ -904,7 +904,7 @@ export const SAT2026PT8MM1Q = {
   },
   64: {
     img: "",
-    question: "A distance of \\(354\\) furlongs is equivalent to how many feet? \\((1 furlong = 220 yards and 1 yard = 3 feet)\\)",
+    question: "A distance of \\(354\\) furlongs is equivalent to how many <u>feet</u>? \\((1 furlong = 220 yards and 1 yard = 3 feet)\\)",
     choice1: "\\(306\\)",
     choice2: "\\(402\\)",
     choice3: "\\(25, 960\\)",
@@ -913,7 +913,7 @@ export const SAT2026PT8MM1Q = {
   },
   65: {
     img: "",
-    question: "\\(y = 2x + 10\\) \\(y = 2x - 1\\) At how many points do the graphs of the given equations intersect in the xy-plane?",
+    question: "\\(y = 2x + 10\\) \\(y = 2x - 1\\) At how many points do the graphs of the given equations intersect in the <i>xy</i>-plane?",
     choice1: "Zero",
     choice2: "Exactly one",
     choice3: "Exactly two",
@@ -941,7 +941,7 @@ export const SAT2026PT8MM1Q = {
   },
   69: {
     img: "",
-    question: "A circle in the xy-plane has a diameter with endpoints \\((2, 4)\\) and \\((2, 14)\\). An equation of this circle is \\((x - 2)^{2} + (y - 9)^{2} = r^{2}\\), where \\(r\\) is a positive constant. What is the value of \\(r\\)?",
+    question: "A circle in the <i>xy</i>-plane has a diameter with endpoints \\((2, 4)\\) and \\((2, 14)\\). An equation of this circle is \\((x - 2)^{2} + (y - 9)^{2} = r^{2}\\), where \\(r\\) is a positive constant. What is the value of \\(r\\)?",
     answer: "5"
   },
   70: {
@@ -973,12 +973,12 @@ export const SAT2026PT8MM1Q = {
   },
   73: {
     img: "",
-    question: "Line \\(l\\) is defined by \\(3y + 12x = 5\\). Line \\(n\\) is perpendicular to line \\(l\\) in the xy-plane. What is the slope of line \\(n\\)?",
+    question: "Line \\(l\\) is defined by \\(3y + 12x = 5\\). Line \\(n\\) is perpendicular to line \\(l\\) in the <i>xy</i>-plane. What is the slope of line \\(n\\)?",
     answer: "0.25"
   },
   74: {
     img: "",
-    question: "\\(y = 2(x - d)(x + d)(x + g)(x - d)\\) In the given equation, \\(d\\) and \\(g\\) are unique positive constants. When the equation is graphed in the xy-plane, how many distinct x-intercepts does the graph have?",
+    question: "\\(y = 2(x - d)(x + d)(x + g)(x - d)\\) In the given equation, \\(d\\) and \\(g\\) are unique positive constants. When the equation is graphed in the <i>xy</i>-plane, how many distinct x-intercepts does the graph have?",
     choice1: "\\(4\\)",
     choice2: "\\(3\\)",
     choice3: "\\(2\\)",
@@ -1139,7 +1139,7 @@ export const SAT2026PT8MM2Q = {
   },
   79: {
     img: "",
-    question: "If the graph of \\(27x + 33y = 297\\) is shifted down \\(5\\) units in the xy-plane, what is the y-intercept of the resulting graph?",
+    question: "If the graph of \\(27x + 33y = 297\\) is shifted down \\(5\\) units in the <i>xy</i>-plane, what is the y-intercept of the resulting graph?",
     choice1: "\\((0, 4)\\)",
     choice2: "\\((0, 6)\\)",
     choice3: "\\((0, 14)\\)",
@@ -1148,7 +1148,7 @@ export const SAT2026PT8MM2Q = {
   },
   80: {
     img: "",
-    question: "The function \\(f\\) is defined by \\(f(x) = \\frac{1}{10}x - 2\\). What is the y-intercept of the graph of \\(y = f(x)\\) in the xy-plane?",
+    question: "The function \\(f\\) is defined by \\(f(x) = \\frac{1}{10}x - 2\\). What is the y-intercept of the graph of \\(y = f(x)\\) in the <i>xy</i>-plane?",
     choice1: "\\((-2, 0)\\)",
     choice2: "\\((0, - 2)\\)",
     choice3: "\\((0, \\frac{1}{10})\\)",
@@ -1198,7 +1198,7 @@ export const SAT2026PT8MM2Q = {
   },
   86: {
     img: "",
-    question: "A cube has an edge length of \\(68\\) inches. A solid sphere with a radius of \\(34\\) inches is inside the cube, such that the sphere touches the center of each face of the cube. To the nearest cubic inch, what is the volume of the space in the cube not taken up by the sphere?",
+    question: "A cube has an edge length of \\(68\\) inches. A solid sphere with a radius of \\(34\\) inches is inside the cube, such that the sphere touches the center of each face of the cube. To the nearest cubic inch, what is the volume of the space in the cube <u>not</u> taken up by the sphere?",
     choice1: "\\(149, 796\\)",
     choice2: "\\(164, 500\\)",
     choice3: "\\(190, 955\\)",
@@ -1221,7 +1221,7 @@ export const SAT2026PT8MM2Q = {
   },
   89: {
     img: "",
-    question: "What is the diameter of the circle in the xy-plane with equation \\((x - 5)^{2} + (y - 3)^{2} = 16\\)?",
+    question: "What is the diameter of the circle in the <i>xy</i>-plane with equation \\((x - 5)^{2} + (y - 3)^{2} = 16\\)?",
     choice1: "\\(4\\)",
     choice2: "\\(8\\)",
     choice3: "\\(16\\)",
